@@ -1,0 +1,36 @@
+{
+  "cat_id": "13658",
+  "offers_total": 1,
+  "category": "Electronics",
+  "name": "Yamaha ATS-1520 Soundbar with Dual Built-In Subwoofers",
+  "description": "47 1/4\" Wide - Bluetooth wireless music streaming ... (visit site URLs for full description)",
+  "updated_at": 1389536912,
+  "price": "248.95",
+  "brand": "Yamaha",
+  "created_at": 1387071892,
+  "sem3_id": "5unuOoWNXsYWEWckaOoaCE",
+  "sitedetails": [
+    {
+      "offers_count": 1,
+      "sku": "ats-1520",
+      "latestoffers": [
+        {
+          "seller": "LSC Warehouse",
+          "lastrecorded_at": 1389536900,
+          "currency": "USD",
+          "firstrecorded_at": 1387071800,
+          "availability": "Available",
+          "price": "248.95",
+          "id": "6PFyDfn1qigcuqqSommeY8"
+        }
+      ],
+      "url": "http://www.lscwarehouse.com/ats-1520.html",
+      "name": "lscwarehouse.com",
+      "recentoffers_count": 1
+    }
+  ],
+  "geo": [
+    "usa"
+  ],
+  "price_currency": "USD"
+}

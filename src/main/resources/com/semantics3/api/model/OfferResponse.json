@@ -1,0 +1,67 @@
+{
+  "code": "OK",
+  "total_results_count": 5,
+  "offset": 0,
+  "results_count": 5,
+  "results": [
+    {
+      "id": "6JotT9dMmWeYoi0UqKESoO",
+      "price": "1167.74",
+      "firstrecorded_at": "2012-10-05T00:20:00Z",
+      "lastrecorded_at": "2014-01-27T01:35:00Z",
+      "sitedetails_name": "walmart.com",
+      "sem3_id": "2iTwoIQGhEKMiW62moMy0u",
+      "seller": "Walmart",
+      "currency": "USD",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": "3l8ZNONJHyWoMsaO8AGoCQ",
+      "shipping": "14.30",
+      "price": "1134.99",
+      "firstrecorded_at": "2013-02-11T20:16:40Z",
+      "lastrecorded_at": "2013-03-03T21:08:20Z",
+      "sitedetails_name": "newegg.com",
+      "sem3_id": "2iTwoIQGhEKMiW62moMy0u",
+      "seller": "newegg.com",
+      "currency": "USD",
+      "availability": "Deactivated. This item is currently out of stock and it may or may not be restocked. [BBX: Buy Box]"
+    },
+    {
+      "id": "4abH4A3vkm06U2oWqwgIsq",
+      "price": "1191.78",
+      "condition": "New",
+      "firstrecorded_at": "2013-01-22T05:30:00Z",
+      "lastrecorded_at": "2013-01-24T19:28:20Z",
+      "sitedetails_name": "amazon.com",
+      "sem3_id": "2iTwoIQGhEKMiW62moMy0u",
+      "seller": "Beach Audio",
+      "currency": "USD",
+      "availability": "Ships in 1-2 business days. Expedited shipping available."
+    },
+    {
+      "id": "17KXreIddiKiQM0SSOskei",
+      "price": "1191.55",
+      "condition": "New",
+      "firstrecorded_at": "2013-01-04T01:50:00Z",
+      "lastrecorded_at": "2013-01-21T13:31:40Z",
+      "sitedetails_name": "amazon.com",
+      "sem3_id": "2iTwoIQGhEKMiW62moMy0u",
+      "seller": "Beach Audio",
+      "currency": "USD",
+      "availability": "Ships in 1-2 business days. Expedited shipping available."
+    },
+    {
+      "id": "1Zl8zVaRtM8W6kMGckSOY6",
+      "price": "1191.30",
+      "condition": "New",
+      "firstrecorded_at": "2012-12-07T17:30:00Z",
+      "lastrecorded_at": "2013-01-03T10:08:20Z",
+      "sitedetails_name": "amazon.com",
+      "sem3_id": "2iTwoIQGhEKMiW62moMy0u",
+      "seller": "Beach Audio",
+      "currency": "USD",
+      "availability": "Ships in 1-2 business days. Expedited shipping available."
+    }
+  ]
+}

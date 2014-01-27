@@ -1,0 +1,3789 @@
+{
+  "total_results_count": 100000,
+  "code": "OK",
+  "offset": 0,
+  "results_count": 10,
+  "results": [
+    {
+      "cat_id": "13658",
+      "offers_total": 1,
+      "category": "Electronics",
+      "name": "Yamaha ATS-1520 Soundbar with Dual Built-In Subwoofers",
+      "description": "47 1/4\" Wide - Bluetooth wireless music streaming ... (visit site URLs for full description)",
+      "updated_at": 1389536912,
+      "price": "248.95",
+      "brand": "Yamaha",
+      "created_at": 1387071892,
+      "sem3_id": "5unuOoWNXsYWEWckaOoaCE",
+      "sitedetails": [
+        {
+          "offers_count": 1,
+          "sku": "ats-1520",
+          "latestoffers": [
+            {
+              "seller": "LSC Warehouse",
+              "lastrecorded_at": 1389536900,
+              "currency": "USD",
+              "firstrecorded_at": 1387071800,
+              "availability": "Available",
+              "price": "248.95",
+              "id": "6PFyDfn1qigcuqqSommeY8"
+            }
+          ],
+          "url": "http://www.lscwarehouse.com/ats-1520.html",
+          "name": "lscwarehouse.com",
+          "recentoffers_count": 1
+        }
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD"
+    },
+    {
+      "cat_id": "13658",
+      "ean": "0041087905574",
+      "model": "S3D40",
+      "offers_total": 48,
+      "weight": "5896700.81",
+      "category": "Electronics",
+      "name": "AudioSource - Soundbar with Dual Built-In Subwoofers",
+      "description": "Enjoy an immersive entertainment experience with t... (visit site URLs for full description)",
+      "updated_at": 1390541472,
+      "price": "229.99",
+      "width": "838.20",
+      "upc": "041087905574",
+      "brand": "AudioSource",
+      "created_at": 1375805723,
+      "sem3_id": "7YKqzSKQyWOgAcAeEqGc8e",
+      "features": {
+        "Service & Support": "2 years warranty",
+        "Service & Support Details": "Limited warranty - 2 years",
+        "blob": "Six 2-1/2\" high-efficiency full-range drivers. Deliver 10W of power each for rich, clear sound. Magnetic shielding helps prevent interference from nearby A/V components.; Two 3-1/2\" subwoofers. For deep, powerful audio.; Sonic emotion 3D sound technology. Features advanced soundfield synthesis to eliminate dead zones and create a lush, immersive soundscape.; 3 soundfield presets. Include normal, movie and music to suit a variety of listening situations.; Inputs. Include 1 optical digital PCM 2-channel audio, 1 RCA and one 3.5mm auxiliary.; RCA output. Makes it easy to connect an external powered subwoofer (not included).; Plug-and-play design. Enables simple setup. Compatible with most TVs, DVD players, MP3 players, computers and game consoles for wide-ranging use.; Rear-panel keyhole slots. Let you create a clutter-free home theater.; Remote. Offers simple operation from a distance.",
+        "Dimensions (WxDxH) / Weight Details": "32.8 in x 5 in x 4 in / 13 lbs",
+        "Speaker Type": "Active",
+        "Nominal (RMS) Output Power": "100 Watt",
+        "Driver Details": "Sound bar : 6 x full-range driver - 2.5\" Sound bar : 2 x subwoofer driver - 3\"",
+        "Product Type": "Sound bar - wired",
+        "Audio Amplifier": "Integrated",
+        "Voltage Required": "AC 120/230 V ( 50/60 Hz )",
+        "Connector Type": "Digital audio input (optical) Audio line-in ( RCA phono ) Audio line-in ( mini-phone 3.5 mm )",
+        "Additional Features": "3D surround sound mode",
+        "Signal-To-Noise Ratio": "80 dB",
+        "Recommended Placing": "Wall-mountable, table-top"
+      },
+      "height": "101.60",
+      "length": "127.00",
+      "sitedetails": [
+        {
+          "sku": "6667328",
+          "latestoffers": [
+            {
+              "seller": "BestBuy",
+              "lastrecorded_at": 1380296300,
+              "currency": "USD",
+              "firstrecorded_at": 1380296300,
+              "availability": "In stock",
+              "price": "114.98",
+              "id": "234RiXvNpYyKMy0wyGKAGQ",
+              "condition": "New"
+            },
+            {
+              "seller": "BestBuy",
+              "lastrecorded_at": 1381742100,
+              "firstrecorded_at": 1381742100,
+              "currency": "USD",
+              "availability": "In stock",
+              "id": "1HhKGHRMBCCyMcEqWeKIuU",
+              "price": "104.99",
+              "condition": "New"
+            },
+            {
+              "seller": "BestBuy",
+              "lastrecorded_at": 1389020600,
+              "currency": "USD",
+              "firstrecorded_at": 1388920500,
+              "availability": "In stock",
+              "id": "7MkYDml6DgSm8uMmqYWgOc",
+              "price": "229.99",
+              "condition": "New"
+            }
+          ],
+          "listprice": "229.99",
+          "name": "bestbuy.com",
+          "listprice_currency": "USD",
+          "offers_count": 8,
+          "url": "http://www.bestbuy.com/site/AudioSource+-+-+Soundbar+with+Dual+Built-In+Subwoofers/6667328.p?id=1218770732719&amp;skuId=6667328",
+          "recentoffers_count": 0
+        },
+        {
+          "sku": "19890680",
+          "latestoffers": [
+            {
+              "seller": "Walmart",
+              "lastrecorded_at": 1390530800,
+              "currency": "USD",
+              "firstrecorded_at": 1386748300,
+              "availability": "In Stock",
+              "id": "193lz6x3ioSKm0GQiYQoiK",
+              "price": "99.99"
+            },
+            {
+              "seller": "Walmart",
+              "lastrecorded_at": 1386567900,
+              "currency": "USD",
+              "firstrecorded_at": 1376297000,
+              "availability": "In stock",
+              "id": "4ZLTDG2cGeQqeGgYwKeI06",
+              "price": "128.00"
+            }
+          ],
+          "name": "walmart.com",
+          "offers_count": 2,
+          "url": "http://www.walmart.com/ip/19890680",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "301-374",
+          "latestoffers": [
+            {
+              "seller": "Parts Express",
+              "lastrecorded_at": 1382718300,
+              "currency": "USD",
+              "firstrecorded_at": 1379756800,
+              "availability": "Available",
+              "price": "229.99",
+              "id": "1xC5g2bU56QSSUS0e60eeI"
+            }
+          ],
+          "name": "parts-express.com",
+          "url": "http://www.parts-express.com/pe/showdetl.cfm?partnumber=301-374",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "34978",
+          "latestoffers": [
+            {
+              "seller": "AutomationSource.com",
+              "lastrecorded_at": 1385725200,
+              "firstrecorded_at": 1379756800,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "7VMuK6dlZIUEgG0KMQkEmc",
+              "price": "219.27",
+              "shipping": "9.99"
+            }
+          ],
+          "name": "automationsource.com",
+          "url": "http://www.automationsource.com/p-34978-s3d40-audio-source-sound-bar-w3d-sound-100-watts.aspx",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "0909411392O",
+          "latestoffers": [
+            {
+              "seller": "PrintSavings.com",
+              "lastrecorded_at": 1379756800,
+              "currency": "USD",
+              "firstrecorded_at": 1379756800,
+              "availability": "Available",
+              "id": "7HxKVjNrLUCMM22k0ygWq0",
+              "price": "285.18"
+            }
+          ],
+          "name": "printsavings.com",
+          "url": "http://www.printsavings.com/Item.aspx?sku=0909411392OP",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "81157039",
+          "latestoffers": [
+            {
+              "seller": "Pricefalls.com",
+              "lastrecorded_at": 1387012900,
+              "firstrecorded_at": 1382718300,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "1Aa2W9HEwUIcIWuK4WgcSG",
+              "price": "146.51",
+              "shipping": "9.99"
+            },
+            {
+              "seller": "Pricefalls.com",
+              "lastrecorded_at": 1379756800,
+              "currency": "USD",
+              "firstrecorded_at": 1379756800,
+              "availability": "Available",
+              "price": "187.10",
+              "id": "6WsEoyGKKOCq4UMo8m6EIm"
+            }
+          ],
+          "name": "pricefalls.com",
+          "url": "http://www.pricefalls.com/products/Audiosource-Speaker-System-80-W-Rms/id/81157039",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "S3D40",
+          "latestoffers": [
+            {
+              "seller": "CompSource",
+              "lastrecorded_at": 1385725200,
+              "currency": "USD",
+              "firstrecorded_at": 1385725200,
+              "availability": "Available",
+              "id": "2wy2Flr9yCuIKWwi8k64gi",
+              "price": "250.00",
+              "shipping": "22.50"
+            },
+            {
+              "seller": "CompSource",
+              "lastrecorded_at": 1382718300,
+              "firstrecorded_at": 1379756800,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "2EzVuW06vAY0K0y06WSQ6W",
+              "price": "230.00",
+              "shipping": "22.50"
+            }
+          ],
+          "name": "compsource.com",
+          "url": "http://www.compsource.com/newtechnote.asp?part_no=S3D40&vid=1467",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "audiosource-s3d40-amplified-plug-play-soundbar-with-sonic-emotion-tm-3d-technology",
+          "latestoffers": [
+            {
+              "seller": "United Pet Solutions",
+              "lastrecorded_at": 1379756800,
+              "currency": "USD",
+              "firstrecorded_at": 1379756800,
+              "availability": "Available",
+              "id": "3sStEtWek4oYa2sQOYGOA2",
+              "price": "299.99"
+            }
+          ],
+          "name": "unitedpetsolutions.com",
+          "url": "http://www.unitedpetsolutions.com/audiosource-s3d40-amplified-plug-play-soundbar-with-sonic-emotion-tm-3d-technology.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "600020436",
+          "latestoffers": [
+            {
+              "seller": "thecityelectronics.com",
+              "lastrecorded_at": 1379756800,
+              "currency": "USD",
+              "firstrecorded_at": 1379756800,
+              "availability": "Available",
+              "id": "30sZWqnoyOyqgYgUiOeugM",
+              "price": "182.18"
+            }
+          ],
+          "name": "thecityelectronics.com",
+          "url": "http://www.thecityelectronics.com/ProductDetail.aspx?prodid=600020436",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "PKAGS3D40",
+          "latestoffers": [
+            {
+              "seller": "Adorama Camera",
+              "lastrecorded_at": 1387012900,
+              "currency": "USD",
+              "firstrecorded_at": 1379756800,
+              "availability": "Available",
+              "price": "299.99",
+              "id": "5aOLaeWiy8swc4EwUM2AmS"
+            }
+          ],
+          "name": "adorama.com",
+          "url": "http://www.adorama.com/PKAGS3D40.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "2699506",
+          "latestoffers": [
+            {
+              "seller": "Neobits.com",
+              "lastrecorded_at": 1385725200,
+              "currency": "USD",
+              "firstrecorded_at": 1385725200,
+              "availability": "Available",
+              "id": "1axBHaP2xkmWI8kwQAqCKA",
+              "price": "249.99"
+            },
+            {
+              "seller": "Neobits.com",
+              "lastrecorded_at": 1382718300,
+              "firstrecorded_at": 1379756800,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "5iFDI2lCcagQaGiQYUqWyI",
+              "price": "229.99",
+              "shipping": "23.44"
+            }
+          ],
+          "name": "neobits.com",
+          "url": "http://www.neobits.com/audiosource_peak_audio_s3d40_audio_source_sound_p2699506.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "audiosource-s3d40-amplified-plug-play-soundbar-with-sonic-emotion-tm-3d-technology",
+          "latestoffers": [
+            {
+              "seller": "Das Cheap",
+              "lastrecorded_at": 1379756800,
+              "currency": "USD",
+              "firstrecorded_at": 1379756800,
+              "availability": "Available",
+              "id": "5OqgwNHsIasaCIgmwQUMIo",
+              "price": "193.19"
+            }
+          ],
+          "name": "dascheap.com",
+          "url": "http://www.dascheap.com/electronics/audiosource-s3d40-amplified-plug-play-soundbar-with-sonic-emotion-tm-3d-technology.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "S3D40",
+          "latestoffers": [
+            {
+              "seller": "TheNerds.net",
+              "lastrecorded_at": 1385725200,
+              "currency": "USD",
+              "firstrecorded_at": 1382718300,
+              "availability": "Available",
+              "price": "147.99",
+              "id": "5TPep6rlQmGKWYqauGmUeg",
+              "shipping": "9.99"
+            },
+            {
+              "seller": "TheNerds.net",
+              "lastrecorded_at": 1379756800,
+              "firstrecorded_at": 1379756800,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "1ABgDeO70iEIgAm0O80SEM",
+              "price": "188.99"
+            }
+          ],
+          "name": "thenerds.net",
+          "url": "http://www.thenerds.net/AUDIOSOURCE.AudioSource_S3D40_Speaker_System_80_W_RMS.S3D40.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "cptlsl2093",
+          "latestoffers": [
+            {
+              "seller": "Techno Outlet Site",
+              "lastrecorded_at": 1385725200,
+              "currency": "USD",
+              "firstrecorded_at": 1385725200,
+              "availability": "Available",
+              "id": "4eXCbf42X2qSUw0WcICo26",
+              "price": "199.99",
+              "shipping": "9.44"
+            },
+            {
+              "seller": "Techno Outlet Site",
+              "lastrecorded_at": 1379756800,
+              "currency": "USD",
+              "firstrecorded_at": 1379756800,
+              "availability": "Available",
+              "price": "215.99",
+              "id": "1ycBDskCiquC04ueeqUKSI"
+            }
+          ],
+          "name": "technooutlet.com",
+          "url": "http://www.technooutlet.com/cptlsl2093.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "audiosources3d40amplifiedplugandplaysoundbarwithsonicemotiontm3dtechnology",
+          "latestoffers": [
+            {
+              "seller": "electOtronics.com",
+              "lastrecorded_at": 1387012900,
+              "currency": "USD",
+              "firstrecorded_at": 1385725200,
+              "availability": "Available",
+              "price": "130.37",
+              "id": "39am2sOeFEQuq6K4sccaaG",
+              "shipping": "15.27"
+            },
+            {
+              "seller": "electOtronics.com",
+              "lastrecorded_at": 1379756800,
+              "firstrecorded_at": 1379756800,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "21WKMLIHx2WE2cEg6siUa4",
+              "price": "148.38"
+            }
+          ],
+          "name": "electotronics.com",
+          "url": "http://www.electotronics.com/audiosources3d40amplifiedplugandplaysoundbarwithsonicemotiontm3dtechnology.aspx",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "74966",
+          "latestoffers": [
+            {
+              "seller": "Galaxor Store",
+              "lastrecorded_at": 1379756800,
+              "currency": "USD",
+              "firstrecorded_at": 1379756800,
+              "availability": "Available",
+              "id": "15NSlsarLigQUKkAc6oEIE",
+              "price": "167.99"
+            }
+          ],
+          "name": "galaxorstore.com",
+          "url": "http://www.galaxorstore.com/index.php?main_page=product_info&products_id=74966",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "7988292-item-UDIOSOURCE-S3D40-041087905574",
+          "latestoffers": [
+            {
+              "seller": "AntaresPro.com",
+              "lastrecorded_at": 1379756800,
+              "currency": "USD",
+              "firstrecorded_at": 1379756800,
+              "availability": "Available",
+              "id": "63i8XTKktc40gcoEsue6KU",
+              "price": "229.99"
+            }
+          ],
+          "name": "antarespro.com",
+          "url": "http://www.antarespro.com/7988292-item-UDIOSOURCE-S3D40-041087905574.aspx",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "audiosources3d406x25amplifiedplugandplaysoundbarwithsonicemotion3d",
+          "latestoffers": [
+            {
+              "seller": "Thunder Audio Video",
+              "lastrecorded_at": 1387012900,
+              "currency": "USD",
+              "firstrecorded_at": 1379756800,
+              "availability": "Available",
+              "id": "0O5J6dnQQoSky0wiAYkmEs",
+              "price": "173.95",
+              "shipping": "13.45"
+            }
+          ],
+          "name": "infiniteelectronix.com",
+          "url": "http://infiniteelectronix.com/audiosources3d406x25amplifiedplugandplaysoundbarwithsonicemotion3d.aspx",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "audiosource-peak-audio-s3d40-audio-source-sound-bar-w-3d",
+          "latestoffers": [
+            {
+              "seller": "Surveillent.com",
+              "lastrecorded_at": 1387012900,
+              "firstrecorded_at": 1382718300,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "7csweCeBk0aSIaAGukKEWc",
+              "price": "216.00",
+              "shipping": "19.98"
+            }
+          ],
+          "name": "surveillent.com",
+          "url": "http://www.surveillent.com/audiosource-peak-audio-s3d40-audio-source-sound-bar-w-3d.aspx",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "69511",
+          "latestoffers": [
+            {
+              "seller": "CE Showroom",
+              "lastrecorded_at": 1385725200,
+              "currency": "USD",
+              "firstrecorded_at": 1385725200,
+              "availability": "Available",
+              "id": "0WnKI53DOCGGQGwMA4KQGA",
+              "price": "249.99"
+            },
+            {
+              "seller": "CE Showroom",
+              "lastrecorded_at": 1382718300,
+              "currency": "USD",
+              "firstrecorded_at": 1382718300,
+              "availability": "Available",
+              "price": "229.99",
+              "id": "3M6xyGYJhIkSSya44s0MSc"
+            }
+          ],
+          "name": "ceshowroom.com",
+          "url": "http://www.ceshowroom.com/product.asp?itemid=69511",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "plug-play-3d-soundbar",
+          "latestoffers": [
+            {
+              "seller": "Consumer Electronics Superstore",
+              "lastrecorded_at": 1382718300,
+              "currency": "USD",
+              "firstrecorded_at": 1382718300,
+              "availability": "Available",
+              "id": "1uDvKHRhDkkm4geC8SIkC8",
+              "price": "251.48",
+              "shipping": "24.96"
+            }
+          ],
+          "name": "consumerelectronicssuperstore.com",
+          "url": "http://www.consumerelectronicssuperstore.com/plug-play-3d-soundbar.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "600020436",
+          "latestoffers": [
+            {
+              "seller": "zonalee.com",
+              "lastrecorded_at": 1382718300,
+              "currency": "USD",
+              "firstrecorded_at": 1382718300,
+              "availability": "Available",
+              "id": "1H8PP58nxqYqmAe88GUW0I",
+              "price": "143.44"
+            }
+          ],
+          "name": "zonalee.com",
+          "url": "http://www.zonalee.com/ProductDetail.aspx?prodid=600020436",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "audiosource-s3d40-amplified-plug-play-soundbar-with-sonic-emotion-tm-3d-technology",
+          "latestoffers": [
+            {
+              "seller": "NuAge Electronics",
+              "lastrecorded_at": 1382718300,
+              "currency": "USD",
+              "firstrecorded_at": 1382718300,
+              "availability": "Available",
+              "id": "5N84gaq5S4oCCSYuoIeSga",
+              "price": "244.49",
+              "shipping": "15.91"
+            }
+          ],
+          "name": "nuagelectronics.com",
+          "url": "http://www.nuagelectronics.com/electronics/speakers/center-channel-speakers-center-channel-speakers/audiosource-s3d40-amplified-plug-play-soundbar-with-sonic-emotion-tm-3d-technology",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "24646356",
+          "latestoffers": [
+            {
+              "seller": "radioshack.com",
+              "lastrecorded_at": 1384504700,
+              "currency": "USD",
+              "firstrecorded_at": 1383308200,
+              "availability": "In stock",
+              "price": "299.99",
+              "id": "46jD3EX2Wuo84U2sUQaEgu"
+            }
+          ],
+          "url": "http://www.radioshack.com/product/index.jsp?productId=24646356",
+          "name": "radioshack.com",
+          "recentoffers_count": 0
+        },
+        {
+          "offers_count": 1,
+          "sku": "1824496",
+          "latestoffers": [
+            {
+              "seller": "TigerDirect.com",
+              "lastrecorded_at": 1385725200,
+              "currency": "USD",
+              "firstrecorded_at": 1385725200,
+              "availability": "Available",
+              "id": "7YiPPwMujuSg626sM2Ma0Y",
+              "price": "249.99",
+              "shipping": "18.29"
+            }
+          ],
+          "url": "http://www.tigerdirect.com/applications/searchtools/item-details.asp?EdpNo=1824496",
+          "name": "tigerdirect.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "audiosource-s3d40-powered-soundbar-speaker-bar--301-374",
+          "latestoffers": [
+            {
+              "seller": "Parts Express",
+              "lastrecorded_at": 1387012900,
+              "currency": "USD",
+              "firstrecorded_at": 1379756800,
+              "availability": "Available",
+              "price": "229.99",
+              "id": "1xC5g2bU56QSSUS0e60eeI"
+            }
+          ],
+          "url": "http://www.parts-express.com/audiosource-s3d40-powered-soundbar-speaker-bar--301-374",
+          "name": "parts-express.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "audiosource-soundbar-with-dual-built-in-subwoofers",
+          "latestoffers": [
+            {
+              "seller": "sophiamart.com",
+              "lastrecorded_at": 1385725200,
+              "currency": "USD",
+              "firstrecorded_at": 1385725200,
+              "availability": "Available",
+              "id": "6cd2xmn5smcqeW6cGGSS4M",
+              "price": "132.99"
+            }
+          ],
+          "url": "http://www.sophiamart.com/audiosource-soundbar-with-dual-built-in-subwoofers",
+          "name": "sophiamart.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "210831",
+          "latestoffers": [
+            {
+              "seller": "ValleySeek",
+              "lastrecorded_at": 1385725200,
+              "currency": "USD",
+              "firstrecorded_at": 1385725200,
+              "availability": "Available",
+              "id": "4niKe59Y3UM8ImGu8EsyQm",
+              "price": "126.93",
+              "shipping": "22.75"
+            }
+          ],
+          "url": "http://www.valleyseek.com/audiosource-s3d40-audiosource-speaker-system/store/show_item/210831",
+          "name": "valleyseek.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "S3D40",
+          "latestoffers": [
+            {
+              "seller": "Savinglots.com",
+              "lastrecorded_at": 1387012900,
+              "currency": "USD",
+              "firstrecorded_at": 1385725200,
+              "availability": "Available",
+              "price": "139.00",
+              "id": "1p4R34WZiSUa4S6uoqM2ca",
+              "shipping": "15.50"
+            }
+          ],
+          "url": "http://www.savinglots.com/lotprod.asp?item=S3D40",
+          "name": "savinglots.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "AudioSource-S3D40-Powered-Soundbar",
+          "latestoffers": [
+            {
+              "seller": "GrabCart",
+              "lastrecorded_at": 1387012900,
+              "currency": "USD",
+              "firstrecorded_at": 1385725200,
+              "availability": "Available",
+              "price": "199.99",
+              "id": "4WuE8NI1vsMIyAGMQscyEW",
+              "shipping": "6.26"
+            }
+          ],
+          "url": "http://www.grabcart.com/product/Electronics/Speakers/fishingsale4-cptlsl2093/AudioSource-S3D40-Powered-Soundbar",
+          "name": "grabcart.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "audiosource-s3d40",
+          "latestoffers": [
+            {
+              "seller": "Audiogurus",
+              "lastrecorded_at": 1387012900,
+              "currency": "USD",
+              "firstrecorded_at": 1387012900,
+              "availability": "Available",
+              "id": "2vUtKAPZ84eMWi0OC46k2W",
+              "price": "249.99"
+            }
+          ],
+          "name": "audiogurus.com",
+          "url": "http://www.audiogurus.com/audiosource-s3d40.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "1305299236",
+          "latestoffers": [
+            {
+              "seller": "Buy",
+              "lastrecorded_at": 1390530800,
+              "firstrecorded_at": 1387818100,
+              "currency": "USD",
+              "availability": "Out of stock",
+              "price": "148.99",
+              "id": "1vAelYwDCOAyOsKgKIQQi4",
+              "condition": "New"
+            }
+          ],
+          "url": "http://www.bestbuy.com/site/AudioSource+-+-+Soundbar+with+Dual+Built-In+Subwoofers/1305299236.p?id=0&skuId=1305299236",
+          "name": "bestbuy.com",
+          "recentoffers_count": 1
+        }
+      ],
+      "gtins": [
+        "00041087905574"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/fdfd195125c77a113b8e187ee8b5c301,0.jpg"
+      ],
+      "images_total": 1
+    },
+    {
+      "cat_id": "1977",
+      "ean": "0799665008710",
+      "model": "Yamaha Surround Soundbar Speaker System",
+      "offers_total": 1,
+      "weight": "4309127.51",
+      "category": "Speakers",
+      "name": "Yamaha Bluetooth Surround Soundbar Speaker System With Digital Sound Projector Technology, Dual Built-In Subwoofers, Home Theater Controller App, Clear Voice, UniVolume, Four Cinema DSP Settings, Black Finish",
+      "description": "Yamaha Soundbar Speaker SystemThe Front Surround S... (visit site URLs for full description)",
+      "updated_at": 1390099031,
+      "price": "359.95",
+      "width": "139.70",
+      "upc": "799665008710",
+      "brand": "Yamaha",
+      "created_at": 1387882891,
+      "sem3_id": "6OjrowFYXoq0eI2I4SicYa",
+      "features": {
+        "blob": "All-in-One Design - No need for a separate subwoofer unit! The sound-bar is equipped with eight array speakers on the front and two down-firing subwoofers integrated into the feet of the sound bar. Combined, they deliver sound with exceptional power and presence; Dual Built-in Subwoofers - With large 3-1/4\" subwoofer drivers built into the feet of the sound bar combined with high-rigidity bass reflex ducts and a large-volume cabinet, the soundbar delivers clear, rich and deep bass for movie sound effects and music; Bluetooth Wireless - Fill your home with music the quick and easy way! Stream music from Bluetooth-compatible smartphones, tablets and computers.; Single Cable for Easy Connection - In a typical installation, the sound-bar connects to a TV via a single cable, so setup is quick and easy. Two digital inputs types are available, one optical and one coaxial. In addition, the sound-bar offers two analog inputs (3.5 mm stereo and a dual RCA) allowing it to accommodate additional audio sources if desired.; Single Unit and Slim Design Allows Neat Installation - Its slim body with subwoofers integrated into the stands has no sharp angles at the top and bottom of the front panel. It will fit neatly and attractively in front of the TV",
+        "Product Dimensions": "39.4 x 5.5 x 3.8 inches ; 9.5 pounds"
+      },
+      "mpn": "Yamaha Surround Soundbar Speaker System",
+      "height": "95.25",
+      "length": "1000.00",
+      "sitedetails": [
+        {
+          "offers_count": 1,
+          "sku": "B00GR4Z0UI",
+          "latestoffers": [
+            {
+              "lastrecorded_at": 1390099000,
+              "currency": "USD",
+              "firstrecorded_at": 1390099000,
+              "availability": "Ships in 1-2 business days. Expedited shipping available. [LST: Only 6 left in stock.] [BBX: Buy Box]",
+              "id": "62mQmkMFZQ8KAACsIGo8O0",
+              "shipping": "24.99",
+              "seller": "superior sales",
+              "price": "359.95",
+              "condition": "New"
+            }
+          ],
+          "url": "http://www.amazon.com/dp/B00GR4Z0UI",
+          "name": "amazon.com",
+          "recentoffers_count": 1,
+          "salesrank": 105648
+        }
+      ],
+      "manufacturer": "YAMAHA",
+      "gtins": [
+        "00799665008710"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/bf56341a7bcc2aa22948f62cd1e1e7b7,0.jpg"
+      ],
+      "images_total": 1
+    },
+    {
+      "cat_id": "13658",
+      "ean": "0027108107783",
+      "model": "YSP 4300BL",
+      "offers_total": 73,
+      "weight": "22793016.59",
+      "category": "Electronics",
+      "name": "Yamaha - 7.1-Channel Soundbar with Wireless Active Subwoofer",
+      "description": "Slim, premium Digital Sound Projector with a wirel... (visit site URLs for full description)",
+      "updated_at": 1390310595,
+      "price": "1899.95",
+      "upc": "027108107783",
+      "brand": "Yamaha",
+      "sem3_id": "3ScCVZlpj6OaGEiqUIymMq",
+      "created_at": 1375853961,
+      "features": {
+        "Built-in Decoders": "Dolby Pro Logic, DTS-ES decoder, Dolby Pro Logic II, Dolby Digital Surround EX, DTS Neo:6, Dolby Digital, DTS decoder, Dolby Pro Logic IIx, Dolby Digital Plus, Dolby TrueHD, DTS-HD Master Audio, DTS-HD High Resolution",
+        "Driver Details": "Sound bar : 2 x woofer driver - 2.5\" Sound bar : 22 x tweeter driver - 28mm",
+        "Product Type": "Speaker - For home theater - 7.1-channel - wired",
+        "Audio Amplifier": "Integrated",
+        "Additional Features": "Advanced Yamaha Active Servo Technology (Advanced YST)",
+        "Driver Details (2nd speaker)": "Subwoofer : 1 x subwoofer driver - 6.5\"",
+        "System Components": "Subwoofer, sound bar",
+        "blob": "324W total power (2W x 22 beam drivers; 75W x 2 woofers; 130W subwoofer). Offers a robust soundscape.; Two 2-1/2\" woofers. Along with twenty-two 1-1/8\" beam drivers produce high-quality sound with optimal imaging and surround effects.; Wireless active subwoofer with 6-1/2\" driver. Utilizes Advanced YST technology to deliver booming low-end audio. The linear port enhances sound dispersion and helps reduce noise.; Digital Sound Projector technology. Uses advanced processing to control the direction of sound beams, so you can enjoy rich, immersive surround sound.; IntelliBeam. Monitors and analyzes sound using a microphone in order to set the proper beam angles and optimize the level and frequency response of each beam.; Aluminum material. With a brushed-metal finish helps dampen vibrations and offers an attractive look. The mirror finish on the sides complements your TV.; Inputs. Include 4 HDMI, 2 digital optical, 1 digital coaxial and 1 analog audio. Front-panel USB connection enables you to enjoy stored music on your compatible AppleÂ® iPodÂ®, iPhoneÂ® or iPadÂ®.; Outputs. Include 1 HDMI.; Optional wireless transmitter (YIT-W12; not included). Lets you enjoy music wirelessly from your Apple iPod, iPhone or iPad or your Mac or PC.; FM tuner. With 40 presets for finding your favorite radio stations with the touch of a button.; Versatile listening modes. Allow you to select from 5 BeamPlus2, Stereo + 3 BeamPlus2, 5 Beam, Stereo + 3 Beam, 3 Beam, Stereo, Target and My Surround options.; Memory function. Enables you to store 3 of your favorite settings for quick access.; Spacers. Let you adjust the height of the soundbar to suit your preferences. The soundbar can easily be mounted on your wall using optional SPM-K20 brackets (not included).; Apple, the Apple logo and iTunes are trademarks of Apple Computer, Inc., registered in the U.S. and other countries. iPod is a trademark of Apple Computer, Inc.; iPad is a trademark of Apple Inc., registered in the U.S. and other countries",
+        "Designed For": "Apple iPad (3rd generation) Apple iPad 1 Apple iPad 2 Apple iPhone 3G, 3GS, 4, 4S, 5 Apple iPod (4G, 5G) Apple iPod classic Apple iPod mini Apple iPod nano (1G, 2G, 3G, 4G, 5G, 6G) Apple iPod touch (1G, 2G, 3G, 4G)",
+        "Dimensions (WxDxH) / Weight Details": "Sound bar : 43.4 in x 6.3 in x 3.4 in / 15.2 lbs Subwoofer : 5.7 in x 14.6 in x 17.6 in / 19.8 lbs",
+        "Built-in Devices": "FM radio, USB host",
+        "Speaker Type": "Active",
+        "Connector Type": "4 x HDMI input ( 19 pin HDMI Type A ) HDMI output ( 19 pin HDMI Type A ) 2 x digital audio input (optical) ( TOSLINK ) Digital audio input (coaxial) ( RCA phono ) Audio line-in ( RCA phono x 2 )",
+        "Enclosure Material": "Aluminum",
+        "Enclosure Color": "Black",
+        "Speakers Included": "1 x sound bar - 194 Watt - wired 1 x subwoofer - 130 Watt - wireless",
+        "Included Accessories": "Remote control",
+        "Remote Control": "Remote control - infrared",
+        "Supported Digital Audio Standards": "WMA, MP3, LPCM",
+        "Integrated Components": "FM radio, USB host"
+      },
+      "sitedetails": [
+        {
+          "offers_count": 2,
+          "sku": "9447052",
+          "latestoffers": [
+            {
+              "seller": "BestBuy",
+              "lastrecorded_at": 1377782200,
+              "currency": "USD",
+              "firstrecorded_at": 1377393000,
+              "availability": "In stock",
+              "id": "63h7uHggcKUCieoUkMAamO",
+              "price": "1599.99",
+              "condition": "New"
+            },
+            {
+              "seller": "BestBuy",
+              "lastrecorded_at": 1375853900,
+              "firstrecorded_at": 1375853900,
+              "currency": "USD",
+              "availability": "In Stock",
+              "id": "6MTpoIQWUC2KkUAG8SGWGK",
+              "price": "1799.99",
+              "condition": "New"
+            }
+          ],
+          "name": "bestbuy.com",
+          "url": "http://www.bestbuy.com/site/Yamaha+-+-+7.1-Channel+Soundbar+with+Wireless+Active+Subwoofer/9447052.p?id=1219018165127&amp;skuId=9447052",
+          "recentoffers_count": 0
+        },
+        {
+          "sku": "B009NKQEWQ",
+          "latestoffers": [
+            {
+              "seller": "MawMar",
+              "lastrecorded_at": 1389972000,
+              "currency": "USD",
+              "firstrecorded_at": 1376761900,
+              "availability": "Ships in 1-2 business days. Ships from MI, United States.",
+              "price": "1599.00",
+              "id": "20jedvN4qGYcKIwi4IqsoU",
+              "shipping": "30.49",
+              "condition": "Used - Like New"
+            },
+            {
+              "seller": "OneCall",
+              "lastrecorded_at": 1389972000,
+              "firstrecorded_at": 1378873500,
+              "currency": "USD",
+              "availability": "Ships in 1-2 business days. Ships from WA, United States. Expedited shipping available.",
+              "price": "1799.95",
+              "id": "6iAGrFwGhcaya6eUW86Mq0",
+              "condition": "New"
+            },
+            {
+              "seller": "Amazon.com",
+              "lastrecorded_at": 1389972000,
+              "currency": "USD",
+              "firstrecorded_at": 1389494300,
+              "availability": "In Stock. [APR: Amazon Prime]",
+              "id": "65LulFnyoi4emUIc0EikmQ",
+              "price": "1599.98",
+              "condition": "New"
+            }
+          ],
+          "name": "amazon.com",
+          "salesrank": 21418,
+          "offers_count": 40,
+          "url": "http://www.amazon.com/dp/B009NKQEWQ",
+          "recentoffers_count": 0
+        },
+        {
+          "offers_count": 1,
+          "sku": "yamaha-ysp-4300bl",
+          "latestoffers": [
+            {
+              "seller": "Spectrum Audio",
+              "lastrecorded_at": 1389701600,
+              "currency": "USD",
+              "firstrecorded_at": 1379640400,
+              "availability": "Available",
+              "price": "1799.99",
+              "id": "20KQXUpMzkcoyOYIY8ywy4"
+            }
+          ],
+          "name": "spectrumaudio.com",
+          "url": "http://www.spectrumaudio.com/yamaha-ysp-4300bl.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 3,
+          "sku": "yamaha-ysp4300",
+          "latestoffers": [
+            {
+              "seller": "Kraft Music",
+              "lastrecorded_at": 1390120500,
+              "firstrecorded_at": 1388911900,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "1799.95",
+              "id": "7BpOALcJWKs0ua2Ey8AokS"
+            },
+            {
+              "seller": "Kraft Music",
+              "lastrecorded_at": 1388287700,
+              "firstrecorded_at": 1386994200,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "1599.95",
+              "id": "6B1MKSGDbcGWA6o6YcKWus"
+            },
+            {
+              "seller": "Kraft Music",
+              "lastrecorded_at": 1384900000,
+              "currency": "USD",
+              "firstrecorded_at": 1379640400,
+              "availability": "Available",
+              "price": "1799.95",
+              "id": "69oUgdF9XseyOSiMuG4gca"
+            }
+          ],
+          "name": "kraftmusic.com",
+          "url": "http://www.kraftmusic.com/home-electronics/soundbar-systems/yamaha-ysp4300",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 3,
+          "sku": "yamaha-ysp-4300",
+          "latestoffers": [
+            {
+              "seller": "Audiogurus",
+              "lastrecorded_at": 1390120500,
+              "currency": "USD",
+              "firstrecorded_at": 1389701600,
+              "availability": "Available",
+              "price": "1799.95",
+              "id": "1OPkGByadYcAYiqYqKiOWq"
+            },
+            {
+              "seller": "Audiogurus",
+              "lastrecorded_at": 1388911900,
+              "currency": "USD",
+              "firstrecorded_at": 1386994200,
+              "availability": "Available",
+              "id": "1bsHu23WpsikqKwQWe8KS0",
+              "price": "1599.95"
+            },
+            {
+              "seller": "Audiogurus",
+              "lastrecorded_at": 1384900000,
+              "currency": "USD",
+              "firstrecorded_at": 1379640400,
+              "availability": "Available",
+              "id": "4q3aPQGVxAaKEEkGqcssY8",
+              "price": "1799.95"
+            }
+          ],
+          "name": "audiogurus.com",
+          "url": "http://www.audiogurus.com/yamaha-ysp-4300.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "442030",
+          "latestoffers": [
+            {
+              "seller": "Full Compass Systems",
+              "lastrecorded_at": 1390120500,
+              "firstrecorded_at": 1386994200,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "1599.95",
+              "id": "7JHQt31mQwaGaQSikmiIMM"
+            },
+            {
+              "seller": "Full Compass Systems",
+              "lastrecorded_at": 1384900000,
+              "currency": "USD",
+              "firstrecorded_at": 1379640400,
+              "availability": "Available",
+              "price": "1799.95",
+              "id": "0LHiKK5zqAS4e8G2wAoa4u"
+            }
+          ],
+          "name": "fullcompass.com",
+          "url": "http://www.fullcompass.com/product/442030.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 3,
+          "sku": "YAYSP4300BL",
+          "latestoffers": [
+            {
+              "seller": "Adorama Camera",
+              "lastrecorded_at": 1390120500,
+              "currency": "USD",
+              "firstrecorded_at": 1389701600,
+              "availability": "Available",
+              "price": "1799.95",
+              "id": "3kMKM3Kd32I0KSWS0kCmGY"
+            },
+            {
+              "seller": "Adorama Camera",
+              "lastrecorded_at": 1388911900,
+              "firstrecorded_at": 1386994200,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "1599.95",
+              "id": "0u0I3Lbj2i6OCcqmIMmKKI"
+            },
+            {
+              "seller": "Adorama Camera",
+              "lastrecorded_at": 1384900000,
+              "currency": "USD",
+              "firstrecorded_at": 1379640400,
+              "availability": "Available",
+              "price": "1799.95",
+              "id": "50VqwPI8xyAQaYyQgKw66y"
+            }
+          ],
+          "name": "adorama.com",
+          "url": "http://www.adorama.com/YAYSP4300BL.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "YSP4300BL",
+          "latestoffers": [
+            {
+              "seller": "Savinglots.com",
+              "lastrecorded_at": 1386994200,
+              "currency": "USD",
+              "firstrecorded_at": 1379640400,
+              "availability": "Available",
+              "price": "1399.00",
+              "id": "0iwzdJO0mMCc8AueQU4SmK"
+            }
+          ],
+          "name": "savinglots.com",
+          "url": "http://www.savinglots.com/lotprod.asp?item=YSP4300BL",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 3,
+          "sku": "892912",
+          "latestoffers": [
+            {
+              "seller": "B&H Photo-Video-Audio",
+              "lastrecorded_at": 1390120500,
+              "firstrecorded_at": 1388911900,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "1799.95",
+              "id": "0alRLMKn14Cgyki8OQg0g4"
+            },
+            {
+              "seller": "B&H Photo-Video-Audio",
+              "lastrecorded_at": 1388287700,
+              "firstrecorded_at": 1386994200,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "1599.95",
+              "id": "4AwzmIBZKquGUey2sqyEmY"
+            },
+            {
+              "seller": "B&H Photo-Video-Audio",
+              "lastrecorded_at": 1384900000,
+              "currency": "USD",
+              "firstrecorded_at": 1381950600,
+              "availability": "Available",
+              "price": "1799.95",
+              "id": "685Nj6gcl6gaoSu4YMAeGc"
+            }
+          ],
+          "url": "http://www.bhphotovideo.com/bnh/controller/home?O=&Q=&sku=892912&is=REG&BI=225&kw=YAYSP4300BL",
+          "name": "bhphotovideo.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "YSP-4300",
+          "latestoffers": [
+            {
+              "seller": "Garretts Smart Electronics",
+              "lastrecorded_at": 1390120500,
+              "currency": "USD",
+              "firstrecorded_at": 1381950600,
+              "availability": "Available",
+              "id": "061SSfMJukai0myMYOYOQM",
+              "price": "1603.74",
+              "shipping": "19.23"
+            }
+          ],
+          "url": "http://www.garrett-smarthome.com/proddetail.php?prod=YSP-4300",
+          "name": "garrett-smarthome.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "yamaha-ysp-4300-digital-sound-projector-with-wireless-subwoofer",
+          "latestoffers": [
+            {
+              "seller": "ExclusiveTVs",
+              "lastrecorded_at": 1389701600,
+              "currency": "USD",
+              "firstrecorded_at": 1387920000,
+              "availability": "Available",
+              "price": "1594.99",
+              "id": "0eg9j4W6xSwCO6WYc68aSe"
+            },
+            {
+              "seller": "ExclusiveTVs",
+              "lastrecorded_at": 1386994200,
+              "firstrecorded_at": 1384185000,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "4GnOgcCXmiOsaA0wQQU0wg",
+              "price": "1598.00"
+            }
+          ],
+          "name": "exclusivetvs.com",
+          "url": "http://www.exclusivetvs.com/yamaha-ysp-4300-digital-sound-projector-with-wireless-subwoofer.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "yamaha-ysp-4300-digital-sound-projector-with-wireless-subwoofer",
+          "latestoffers": [
+            {
+              "seller": "Five Star Buy",
+              "lastrecorded_at": 1390120500,
+              "currency": "USD",
+              "firstrecorded_at": 1390120500,
+              "availability": "Available",
+              "id": "2MZlxMWtcisQ6m6QeImMWu",
+              "price": "1495.00"
+            },
+            {
+              "seller": "Five Star Buy",
+              "lastrecorded_at": 1389701600,
+              "firstrecorded_at": 1384185000,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "1595.00",
+              "id": "7e3GEjFdNQqmIyAO0I2a6A"
+            }
+          ],
+          "name": "fivestarbuy.com",
+          "url": "https://fivestarbuy.com/yamaha-ysp-4300-digital-sound-projector-with-wireless-subwoofer.html?gdftrk=gdfV26073_a_7c2597_a_7c9566_a_7cYSP4300",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "AUDYSP4300BL",
+          "latestoffers": [
+            {
+              "seller": "Cascio Interstate Music",
+              "lastrecorded_at": 1388287700,
+              "currency": "USD",
+              "firstrecorded_at": 1384900000,
+              "availability": "Available",
+              "price": "1799.99",
+              "id": "6wwyQQY2EqkW4UOoqM8AIy"
+            }
+          ],
+          "name": "interstatemusic.com",
+          "url": "http://www.interstatemusic.com/876239-Yamaha-YSP4300BL-Digital-Sound-Projector-Black-YSP4300BL.aspx?sku=AUDYSP4300BL",
+          "recentoffers_count": 1
+        },
+        {
+          "sku": "YSP-4300",
+          "latestoffers": [
+            {
+              "seller": "World Wide Stereo",
+              "lastrecorded_at": 1390310500,
+              "firstrecorded_at": 1388958200,
+              "currency": "USD",
+              "availability": "In stock",
+              "price": "1799.95",
+              "id": "1SfdmMdQHI0c2IQAKKmwms"
+            },
+            {
+              "seller": "World Wide Stereo",
+              "lastrecorded_at": 1388483700,
+              "currency": "USD",
+              "firstrecorded_at": 1386852900,
+              "availability": "In stock",
+              "id": "1FKZnrra9OyQoOQuYGYOwM",
+              "price": "1599.95"
+            }
+          ],
+          "listprice": "1899.95",
+          "name": "wwstereo.com",
+          "listprice_currency": "USD",
+          "offers_count": 2,
+          "url": "http://www.wwstereo.com/Yamaha/YSP-4300",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 4,
+          "sku": "yamaha-ysp-4300-digital-sound-projector-wireless-active-subwoofer",
+          "latestoffers": [
+            {
+              "seller": "DirectBuyAV.com",
+              "lastrecorded_at": 1390120500,
+              "currency": "USD",
+              "firstrecorded_at": 1390120500,
+              "availability": "Available",
+              "id": "54APLlmhGSgcuOWWaGuqCM",
+              "price": "1479.00"
+            },
+            {
+              "seller": "DirectBuyAV.com",
+              "lastrecorded_at": 1386994200,
+              "currency": "USD",
+              "firstrecorded_at": 1386994200,
+              "availability": "Available",
+              "price": "1389.00",
+              "id": "4ND1FaZWAqIaMQSgE6Q0eK"
+            },
+            {
+              "seller": "DirectBuyAV.com",
+              "lastrecorded_at": 1389701600,
+              "currency": "USD",
+              "firstrecorded_at": 1389701600,
+              "availability": "Available",
+              "price": "1449.00",
+              "id": "7GVOX9KLGiQeqmY2W8GGac"
+            }
+          ],
+          "url": "http://www.directbuyav.com/yamaha-ysp-4300-digital-sound-projector-wireless-active-subwoofer",
+          "name": "directbuyav.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "B009NKQEWQ-6",
+          "latestoffers": [
+            {
+              "seller": "Overstock Biz",
+              "lastrecorded_at": 1388911900,
+              "currency": "USD",
+              "firstrecorded_at": 1388287700,
+              "availability": "Available",
+              "price": "1761.95",
+              "id": "6oWu2OOVUWqyywmgiQ2wqq"
+            }
+          ],
+          "url": "http://www.overstockbiz.com/products/B009NKQEWQ-6",
+          "name": "overstockbiz.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "0027108107783",
+          "latestoffers": [
+            {
+              "seller": "Fishpond.com",
+              "lastrecorded_at": 1388911900,
+              "currency": "USD",
+              "firstrecorded_at": 1388911900,
+              "availability": "Available",
+              "id": "0pq9Qg7deE4i0KCEeU40KO",
+              "price": "2639.00"
+            }
+          ],
+          "url": "http://www.fishpond.com/Electronics/Yamaha-71-Channel-Soundbar-with-Wireless-Active-Subwoofer/0027108107783",
+          "name": "fishpond.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "B009NKQEWQ-5",
+          "latestoffers": [
+            {
+              "seller": "Overstock Biz",
+              "lastrecorded_at": 1390120500,
+              "currency": "USD",
+              "firstrecorded_at": 1390120500,
+              "availability": "Available",
+              "id": "0aJiuqZhbig60o6ewqMYsI",
+              "price": "1702.40"
+            }
+          ],
+          "url": "http://www.overstockbiz.com/products/B009NKQEWQ-5",
+          "name": "overstockbiz.com",
+          "recentoffers_count": 1
+        }
+      ],
+      "gtins": [
+        "00027108107783"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/a1949364fd49f18c19dec43d716fab57,0.jpg"
+      ],
+      "images_total": 1
+    },
+    {
+      "cat_id": "5289",
+      "ean": "0027108945934",
+      "model": "YAS152BL",
+      "offers_total": 11,
+      "weight": "4808079.12",
+      "category": "Microphones & Accessories",
+      "name": "Yamaha YAS-152 7.1 Channel Wireless Bluetooth Soundbar with Built-In Subwoofers (Black)",
+      "description": "Designed for 55” and Larger TVs At 47-1/4” wide, t... (visit site URLs for full description)",
+      "updated_at": 1390577896,
+      "price": "349.95",
+      "width": "1198.88",
+      "upc": "027108945934",
+      "brand": "yamaha",
+      "created_at": 1386852986,
+      "sem3_id": "0mCChlD1FEuwMsWAs4OAII",
+      "features": {
+        "ENERGY STAR Certified": "No [ENERGY STAR is a joint program of the U.S. Environmental Protection Agency and the U.S. Department of Energy helping us all save money and protect the environment through energy efficient products and practices. ]",
+        "Surround Sound Decoders": "Dolby Digital, DTS",
+        "blob": "120W maximum power (30W x 2; 60W subwoofer). Provides quality sound for your favorite movies, shows, games and music.; Two speakers. Offer crisp, detailed audio.; Active subwoofer with two 3-1/2\" drivers. Delivers robust low-end sound.; AIR SURROUND EXTREME technology. Along with Dolby Digital and DTS surround sound decoders to help create an immersive soundscape.; Clear Voice technology. Offers crisp dialogue.; UniVolume. Helps maintain consistent volume levels.; Bluetooth wireless music streaming. Makes it easy to listen to audio content stored on your compatible mobile phone or tablet.; Learning feature. Allows you to turn the soundbar on and off and control volume with your TV remote. TV Remote Repeater ensures reliable operation. Downloadable app enables easy control via your compatible Android or AppleÂ® iOS device.; Designed to complement most 55\" and larger TVs. For easy integration with your existing home theater setup.; Inputs. Include 1 optical and 1 coaxial digital audio. Stereo mini and dual RCA interfaces offer flexible connectivity.; Single-cable connection. Simplifies setup.; Apple, the Apple logo and iTunes are trademarks of Apple Computer, Inc., registered in the U.S. and other countries. iPod is a trademark of Apple Computer, Inc.",
+        "Subwoofer Size (in.)": "Two 3-1/2\"",
+        "Analog Audio Output": "1",
+        "Digital Audio Inputs": "2",
+        "Total System Power": "120W [Total amount of power the amplifier is capable of producing in a brief burst. ]",
+        "HDMI Inputs": "0 [HDMI carries both digital video and audio (at resolutions up to 1080p) in a single cable. It provides the highest-quality connection between your TV and Blu-ray players, personal computers, video game consoles and more. The more inputs your TV has, the more devices you can connect directly. ]",
+        "Digital Input": "1 optical, 1 coaxial [Optical and coaxial connections that accept digital audio signals from other A/V components. ]",
+        "Number of Speakers": "1 + subwoofer",
+        "Subwoofer Power (watts)": "60 [Power of the subwoofer speaker in watts. The more power, the louder the subwoofer. ]",
+        "Subwoofer Type": "Active",
+        "Warranty Terms - Parts": "2 years",
+        "Remote Control": "Standard [Allows wireless operation of the device from a distance. ]"
+      },
+      "height": "109.22",
+      "length": "137.16",
+      "sitedetails": [
+        {
+          "sku": "YAS152BL",
+          "latestoffers": [
+            {
+              "seller": "World Wide Stereo",
+              "lastrecorded_at": 1390401500,
+              "currency": "USD",
+              "firstrecorded_at": 1386852900,
+              "availability": "In stock",
+              "id": "0VEQFEAXAys20sUEmAIWGA",
+              "price": "299.95"
+            }
+          ],
+          "name": "wwstereo.com",
+          "listprice": "349.95",
+          "listprice_currency": "USD",
+          "offers_count": 1,
+          "url": "http://www.wwstereo.com/Yamaha/YAS152BL",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "ID301C24",
+          "latestoffers": [
+            {
+              "seller": "Fumfie.com",
+              "lastrecorded_at": 1390577800,
+              "currency": "USD",
+              "firstrecorded_at": 1390577800,
+              "availability": "Available",
+              "id": "0dpd98skkPAs8icCWoo0wm",
+              "price": "239.95"
+            },
+            {
+              "seller": "Fumfie.com",
+              "lastrecorded_at": 1389126000,
+              "currency": "USD",
+              "firstrecorded_at": 1386855800,
+              "availability": "Available",
+              "price": "259.95",
+              "id": "5k6RuYvoAKqieMI6aqgwQM"
+            }
+          ],
+          "url": "http://www.fumfie.com/product/ID301C24/view",
+          "name": "fumfie.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "1007040",
+          "latestoffers": [
+            {
+              "seller": "B&H Photo-Video-Audio",
+              "lastrecorded_at": 1390577800,
+              "currency": "USD",
+              "firstrecorded_at": 1386855800,
+              "availability": "Available",
+              "price": "299.95",
+              "id": "2ztwVDUhpYISQ6mwWWeioc"
+            }
+          ],
+          "url": "http://www.bhphotovideo.com/bnh/controller/home?O=&Q=&sku=1007040&is=REG&BI=225&kw=YAYAS152BL",
+          "name": "bhphotovideo.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "73231",
+          "latestoffers": [
+            {
+              "seller": "Abt Electronics & Appliances",
+              "lastrecorded_at": 1390577800,
+              "currency": "USD",
+              "firstrecorded_at": 1386855800,
+              "availability": "Available",
+              "price": "299.95",
+              "id": "017sRHkSDVaowa0MeW8O6E"
+            }
+          ],
+          "url": "http://www.abt.com/product/73231/Yamaha-YAS152BL.html",
+          "name": "abt.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "yamaha-yas152",
+          "latestoffers": [
+            {
+              "seller": "Kraft Music",
+              "lastrecorded_at": 1390577800,
+              "currency": "USD",
+              "firstrecorded_at": 1386855800,
+              "availability": "Available",
+              "price": "299.95",
+              "id": "2jFzoek2Ui8iI6AcAkKYQA"
+            }
+          ],
+          "url": "http://www.kraftmusic.com/home-electronics/soundbar-systems/yamaha-yas152",
+          "name": "kraftmusic.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "YAYAS152BL",
+          "latestoffers": [
+            {
+              "seller": "Adorama Camera",
+              "lastrecorded_at": 1390577800,
+              "currency": "USD",
+              "firstrecorded_at": 1386855800,
+              "availability": "Available",
+              "price": "299.95",
+              "id": "6pAHTNrDySos6IaAe4Ea2s"
+            }
+          ],
+          "url": "http://www.adorama.com/YAYAS152BL.html",
+          "name": "adorama.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "455188",
+          "latestoffers": [
+            {
+              "seller": "Full Compass Systems",
+              "lastrecorded_at": 1390577800,
+              "currency": "USD",
+              "firstrecorded_at": 1386855800,
+              "availability": "Available",
+              "price": "299.95",
+              "id": "3LnE4JmuaGisKG0SkiiOoM"
+            }
+          ],
+          "url": "http://www.fullcompass.com/product/455188.html",
+          "name": "fullcompass.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "yamaha-yas-152-sound-bar-wireless-wired",
+          "latestoffers": [
+            {
+              "seller": "DirectBuyAV.com",
+              "lastrecorded_at": 1390577800,
+              "firstrecorded_at": 1388128700,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "295.00",
+              "id": "0924LnZP2oqygyCY8I4oAg"
+            }
+          ],
+          "url": "http://www.directbuyav.com/yamaha-yas-152-sound-bar-wireless-wired",
+          "name": "directbuyav.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "0027108945934",
+          "latestoffers": [
+            {
+              "seller": "Fishpond.com",
+              "lastrecorded_at": 1388474200,
+              "currency": "USD",
+              "firstrecorded_at": 1388434700,
+              "availability": "Available",
+              "price": "368.00",
+              "id": "4qt6pMPG8GsASC4cEg6cO8"
+            }
+          ],
+          "url": "http://www.fishpond.com/Electronics/Yamaha-2-Channel-Soundbar-with-Dual-89cm-Subwoofer/0027108945934",
+          "name": "fishpond.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "2354253",
+          "latestoffers": [
+            {
+              "seller": "BestBuy",
+              "lastrecorded_at": 1387832700,
+              "currency": "USD",
+              "firstrecorded_at": 1387832700,
+              "availability": "In stock",
+              "id": "5AIeA34gsaQqAaykmMokcU",
+              "price": "299.99",
+              "condition": "New"
+            }
+          ],
+          "name": "bestbuy.com",
+          "url": "http://www.bestbuy.com/site/Yamaha+-+-+2-Channel+Soundbar+with+Dual+3-1/2\"+Subwoofer/2354253.p?id=1219072220821&skuId=2354253",
+          "recentoffers_count": 1
+        }
+      ],
+      "gtins": [
+        "00027108945934"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/f43f58e1a5143fa90ebfe07e170f1cfa,0.jpg"
+      ],
+      "images_total": 1
+    },
+    {
+      "cat_id": "1977",
+      "ean": "0027108924724",
+      "model": "YST SW216BL",
+      "offers_total": 344,
+      "weight": "12609867.89",
+      "category": "Speakers",
+      "name": "Yamaha YST-SW216BL Subwoofer",
+      "description": "Yamaha YST-SW216BL sets the standard for subwoofer... (visit site URLs for full description)",
+      "updated_at": 1390577853,
+      "price": "99.00",
+      "width": "339.85",
+      "upc": "027108924724",
+      "brand": "Yamaha",
+      "created_at": 1347784387,
+      "sem3_id": "231VyAUHyayqeQYk80Wg0S",
+      "color": "Black",
+      "features": {
+        "ENERGY STAR Certified": "No [ENERGY STAR is a joint program of the U.S. Environmental Protection Agency and the U.S. Department of Energy helping us all save money and protect the environment through energy efficient products and practices. ]",
+        "Subwoofer": "10\", 100W",
+        "Enclosure Type": "High-density MDF cabinet",
+        "Subwoofer Driver": "10\"",
+        "Number of Speakers": "1",
+        "Product Depth": "15-3/16\"",
+        "Maximum Power Handling": "100W",
+        "Number of Speakers per Package": "1",
+        "Frequency Response": "25 - 180Hz (-10dB) [Range of sound (low to high) that an audio or video component is capable of reproducing. ]",
+        "blob": "High 100W dynamic power; 10 long-stroke cone driver with magnetic shielding; Front-firing active woofer; Selectable high-cut filter; 25-180Hz low frequency response",
+        "Magnetically Shielded": "Yes",
+        "Speaker Use": "Subwoofer",
+        "Enclosure Color": "Black",
+        "Amplified Power": "100W",
+        "Woofer": "10\"",
+        "Warranty Terms - Parts": "2 years limited",
+        "Speaker Pricing": "Each",
+        "Speaker type": "Front-firing active"
+      },
+      "mpn": "YST-SW216BL",
+      "height": "339.85",
+      "length": "385.83",
+      "sitedetails": [
+        {
+          "sku": "B000FJ89UO",
+          "latestoffers": [
+            {
+              "seller": "Audio Systems Plus",
+              "lastrecorded_at": 1390577800,
+              "currency": "USD",
+              "firstrecorded_at": 1390577800,
+              "availability": "Usually ships within 3 - 4 business days. Ships from TX, United States. Expedited shipping available.",
+              "id": "6cyrHNEnQWa6kW6CiuUiWy",
+              "price": "91.21",
+              "shipping": "23.49",
+              "condition": "New"
+            },
+            {
+              "seller": "Amazon.com",
+              "lastrecorded_at": 1390577800,
+              "firstrecorded_at": 1374689400,
+              "currency": "USD",
+              "availability": "In Stock. [APR: Amazon Prime]",
+              "id": "0R6qI5sHKoS2cs8me2M0AI",
+              "price": "116.95",
+              "condition": "New"
+            },
+            {
+              "lastrecorded_at": 1390577800,
+              "currency": "USD",
+              "firstrecorded_at": 1389703900,
+              "availability": "Ships in 1-2 business days. Expedited shipping available.",
+              "id": "27BJOVpSlUGGagauK4q4oq",
+              "shipping": "18.48",
+              "seller": "MaxDeal",
+              "price": "140.34",
+              "condition": "New"
+            }
+          ],
+          "name": "amazon.com",
+          "salesrank": 2643,
+          "offers_count": 309,
+          "url": "http://www.amazon.com/dp/B000FJ89UO",
+          "recentoffers_count": 15
+        },
+        {
+          "offers_count": 17,
+          "sku": "N82E16882115129",
+          "latestoffers": [
+            {
+              "seller": "Newegg",
+              "lastrecorded_at": 1382880500,
+              "currency": "USD",
+              "firstrecorded_at": 1379605000,
+              "availability": "InStock [BBX: Buy Box]",
+              "id": "24gVTCf8QqoQa6CAAYEeoE",
+              "price": "116.95"
+            },
+            {
+              "seller": "Newegg",
+              "lastrecorded_at": 1373857700,
+              "firstrecorded_at": 1373857700,
+              "currency": "USD",
+              "id": "7EsH723cEwqkIU8KASACoG",
+              "price": "116.99"
+            },
+            {
+              "seller": "OneCall.com",
+              "lastrecorded_at": 1381739000,
+              "currency": "USD",
+              "firstrecorded_at": 1380246500,
+              "id": "6UmHOH0JSS882kcWQWiMqU",
+              "price": "129.94"
+            }
+          ],
+          "url": "http://www.newegg.com/Product/Product.aspx?Item=N82E16882115129",
+          "name": "newegg.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "7688987",
+          "latestoffers": [
+            {
+              "seller": "BestBuy",
+              "lastrecorded_at": 1390221000,
+              "currency": "USD",
+              "firstrecorded_at": 1389489300,
+              "availability": "Out of stock",
+              "price": "129.99",
+              "id": "6PHVxiMkAwWcwMsoA6IkKE",
+              "condition": "New"
+            },
+            {
+              "seller": "BestBuy",
+              "lastrecorded_at": 1389153400,
+              "currency": "USD",
+              "firstrecorded_at": 1375853800,
+              "availability": "Out of stock",
+              "id": "6zXR0RuuESOEGi80AUaGcw",
+              "price": "116.99",
+              "condition": "New"
+            }
+          ],
+          "name": "bestbuy.com",
+          "url": "http://www.bestbuy.com/site/Yamaha+-+-+10\"+100W+Powered+Subwoofer/7688987.p?id=1138083504371&amp;skuId=7688987",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "YAYSTSW216BK",
+          "latestoffers": [
+            {
+              "seller": "Adorama Camera",
+              "lastrecorded_at": 1390215600,
+              "currency": "USD",
+              "firstrecorded_at": 1390215600,
+              "availability": "Available",
+              "id": "5hFt1diFqw0AsmYuQCA8AK",
+              "price": "129.94"
+            },
+            {
+              "seller": "Adorama Camera",
+              "lastrecorded_at": 1388909000,
+              "currency": "USD",
+              "firstrecorded_at": 1380918200,
+              "availability": "Available",
+              "price": "116.95",
+              "id": "5ZLmJnWYS0sC848Qkw4MCC"
+            }
+          ],
+          "name": "adorama.com",
+          "url": "http://www.adorama.com/YAYSTSW216BK.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "423258",
+          "latestoffers": [
+            {
+              "seller": "B&H Photo-Video-Audio",
+              "lastrecorded_at": 1390215600,
+              "currency": "USD",
+              "firstrecorded_at": 1390215600,
+              "availability": "Available",
+              "id": "2kriSRX7Sig40COskiUEek",
+              "price": "129.94"
+            },
+            {
+              "seller": "B&H Photo-Video-Audio",
+              "lastrecorded_at": 1388909000,
+              "currency": "USD",
+              "firstrecorded_at": 1380918200,
+              "availability": "Available",
+              "price": "116.95",
+              "id": "36RNGZT6d6meuOYs428ccO"
+            }
+          ],
+          "name": "bhphotovideo.com",
+          "url": "http://www.bhphotovideo.com/bnh/controller/home?O=&Q=&sku=423258&is=REG&BI=225&kw=YAYSTSW216B",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "23503",
+          "latestoffers": [
+            {
+              "seller": "Abt Electronics & Appliances",
+              "lastrecorded_at": 1390215600,
+              "currency": "USD",
+              "firstrecorded_at": 1390215600,
+              "availability": "Available",
+              "id": "2Vw1yhZZNMOaUk8ciOuUu8",
+              "price": "129.94"
+            },
+            {
+              "seller": "Abt Electronics & Appliances",
+              "lastrecorded_at": 1388909000,
+              "currency": "USD",
+              "firstrecorded_at": 1380918200,
+              "availability": "Available",
+              "price": "116.95",
+              "id": "3CO9ha6a3c6s2ASSIY82OO"
+            }
+          ],
+          "name": "abt.com",
+          "url": "http://www.abt.com/product/23503/Yamaha-YSTSW216BL.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "yamaha-yst-sw216",
+          "latestoffers": [
+            {
+              "seller": "Audiogurus",
+              "lastrecorded_at": 1390215600,
+              "currency": "USD",
+              "firstrecorded_at": 1380918200,
+              "availability": "Available",
+              "price": "129.94",
+              "id": "2FbFwD0kKGUGeiqyaaEOiG"
+            }
+          ],
+          "name": "audiogurus.com",
+          "url": "http://www.audiogurus.com/yamaha-yst-sw216.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "YAMYSTSW216BL",
+          "latestoffers": [
+            {
+              "seller": "Accessories4less",
+              "lastrecorded_at": 1381970100,
+              "currency": "USD",
+              "firstrecorded_at": 1380918200,
+              "availability": "Available",
+              "price": "99.99",
+              "id": "06su7FjyqJc64AaAwo0Ck4",
+              "condition": "Refurbished"
+            }
+          ],
+          "name": "accessories4less.com",
+          "url": "http://www.accessories4less.com/index.php?page=item&id=YAMYSTSW216BL",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "69",
+          "latestoffers": [
+            {
+              "seller": "NewAudioUnited.com",
+              "lastrecorded_at": 1390215600,
+              "currency": "USD",
+              "firstrecorded_at": 1380918200,
+              "availability": "Available",
+              "id": "668AA2oSXIauM622kESAcO",
+              "price": "99.00",
+              "shipping": "48.89"
+            }
+          ],
+          "name": "newaudiounited.com",
+          "url": "http://www.newaudiounited.com/index.php?route=product/product&product_id=69",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "133543",
+          "latestoffers": [
+            {
+              "seller": "BrandsMart USA",
+              "lastrecorded_at": 1390215600,
+              "firstrecorded_at": 1380918200,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "469l21fSbQKSQKme8MQyUM",
+              "price": "129.94",
+              "shipping": "15.88"
+            }
+          ],
+          "name": "brandsmartusa.com",
+          "url": "http://www.brandsmartusa.com/product/133543/product.bmp",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "YSTSW216",
+          "latestoffers": [
+            {
+              "seller": "hhgregg",
+              "lastrecorded_at": 1380918200,
+              "currency": "USD",
+              "firstrecorded_at": 1380918200,
+              "availability": "Available",
+              "id": "1qzvv3RnAKwEkcwKa6C6ag",
+              "price": "149.99"
+            }
+          ],
+          "name": "hhgregg.com",
+          "url": "http://www.hhgregg.com/yamaha-10-100-watt-front-firing-active-subwoofer/item/YSTSW216",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "AUDYSTSW216BL",
+          "latestoffers": [
+            {
+              "seller": "Cascio Interstate Music",
+              "lastrecorded_at": 1388285400,
+              "firstrecorded_at": 1387914000,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "104.99",
+              "id": "3ycQqxtbTcg2ouIawWQikS"
+            },
+            {
+              "seller": "Cascio Interstate Music",
+              "lastrecorded_at": 1384233100,
+              "firstrecorded_at": 1380918200,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "99.95",
+              "id": "7haNA7ybomU40UYyCguEsE"
+            }
+          ],
+          "name": "interstatemusic.com",
+          "url": "http://www.interstatemusic.com/837865-Yamaha-YST-SW216-Subwoofer-YSTSW216BL.aspx?sku=AUDYSTSW216BL",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "YST-SW216",
+          "latestoffers": [
+            {
+              "seller": "Garretts Smart Electronics",
+              "lastrecorded_at": 1381970100,
+              "currency": "USD",
+              "firstrecorded_at": 1381970100,
+              "availability": "Available",
+              "id": "254phzVlGesk2QKQM4MEMY",
+              "price": "144.99",
+              "shipping": "23.27"
+            }
+          ],
+          "name": "garrett-smarthome.com",
+          "url": "http://www.garrett-smarthome.com/proddetail.php?prod=YST-SW216",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "YSTSW216",
+          "latestoffers": [
+            {
+              "seller": "Garretts Smart Electronics",
+              "lastrecorded_at": 1390215600,
+              "currency": "USD",
+              "firstrecorded_at": 1384233100,
+              "availability": "Available",
+              "id": "25vrrSPZxQGuGIagYQQSuW",
+              "price": "112.49",
+              "shipping": "19.23"
+            }
+          ],
+          "url": "http://www.garrett-smarthome.com/proddetail.php?prod=YSTSW216",
+          "name": "garrett-smarthome.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "1307717073",
+          "latestoffers": [
+            {
+              "seller": "Buy",
+              "lastrecorded_at": 1387820100,
+              "currency": "USD",
+              "firstrecorded_at": 1387820100,
+              "availability": "Out of stock",
+              "id": "5aUehkKrM8G6WmAMEscC8k",
+              "price": "130.88",
+              "condition": "New"
+            }
+          ],
+          "name": "bestbuy.com",
+          "url": "http://www.bestbuy.com/site/Yamaha+-+-+10\"+100W+Powered+Subwoofer/1307717073.p?id=0&skuId=1307717073",
+          "recentoffers_count": 1
+        }
+      ],
+      "manufacturer": "YAMAHA",
+      "gtins": [
+        "00027108924724"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/210324e6011534adea157246fbfde60b,0.jpg"
+      ],
+      "images_total": 1
+    },
+    {
+      "cat_id": "1977",
+      "ean": "0629303300930",
+      "model": "Energy Power Bar One",
+      "offers_total": 463,
+      "weight": "3492661.25",
+      "category": "Speakers",
+      "name": "Energy Power Bar One All-In-One Soundbar with Built-In Subwoofers - Black",
+      "description": "The Energy Power Bar One uses, for each audio chan... (visit site URLs for full description)",
+      "updated_at": 1390440699,
+      "price": "249.99",
+      "width": "762.00",
+      "upc": "629303300930",
+      "brand": "Energy",
+      "color": "Black",
+      "sem3_id": "3ArQlAJx8S2SQW6WE8ioKK",
+      "created_at": 1356316448,
+      "features": {
+        "Power Device": "Power supply",
+        "Driver Details": "Subwoofer : 1 x subwoofer driver - 8\" - fiber composite",
+        "Product Type": "Sound bar system - 2.1-channel",
+        "Additional Features": "Integrated wall mount, Convergent Source Module (CSM) technology, Remote control learning function",
+        "Response Bandwidth": "50 - 20000 Hz",
+        "Driver Details (2nd speaker)": "Sound bar : 2 x midrange driver - 3\" - injection molded graphite (IMG) Sound bar : 2 x tweeter driver - 0.78\" - Soft Dome",
+        "System Components": "Subwoofer, sound bar",
+        "Service & Support": "1 year warranty",
+        "Service & Support Details": "Limited warranty - amplifier - 1 year Limited warranty - speaker driver - 3 years",
+        "blob": "Two-way speaker driver design with built-in subwoofers; Digital Optical and Analog RCA inputs; Digital optical and RCA cables included; 3D Surround Mode; Remote control learning feature",
+        "Dimensions (WxDxH) / Weight Details": "Sound bar : 30 in x 4.1 in x 4.4 in / 5.1 lbs Subwoofer : 9.5 in x 14 in x 11.5 in / 15 lbs",
+        "Connector Type": "Audio line-in ( RCA phono x 2 ) SPDIF input ( TOSLINK ) DC power input",
+        "Enclosure Color": "Matte black, satin black",
+        "Speakers Included": "1 x sound bar - 2-way - wired 1 x subwoofer - wireless",
+        "Included Accessories": "Speaker grille, TOSLINK cable",
+        "Controls": "Subwoofer volume control, power on/off"
+      },
+      "mpn": "Energy Power Bar One",
+      "height": "111.76",
+      "length": "104.14",
+      "sitedetails": [
+        {
+          "sku": "B00AAZOBSC",
+          "latestoffers": [
+            {
+              "seller": "Abt Electronics",
+              "lastrecorded_at": 1390440600,
+              "currency": "USD",
+              "firstrecorded_at": 1390440600,
+              "availability": "Ships in 1-2 business days. Ships from United States. [LST: Only 19 left in stock.] [BBX: Buy Box]",
+              "id": "05nkXQSsrqauw8YoaE6ioK",
+              "price": "142.00",
+              "condition": "New"
+            },
+            {
+              "seller": "Boon Sales",
+              "lastrecorded_at": 1390440600,
+              "currency": "USD",
+              "firstrecorded_at": 1390440600,
+              "availability": "Fulfillment by Amazon 100% positive over the past 12 months. (45 total ratings) In Stock. [APR: Amazon Prime]",
+              "id": "49MkU4jgOeokYQYG0eC8AY",
+              "price": "169.99",
+              "condition": "New"
+            },
+            {
+              "lastrecorded_at": 1390440600,
+              "currency": "USD",
+              "firstrecorded_at": 1384111700,
+              "availability": "Ships in 1-2 business days. Expedited shipping available.",
+              "id": "38qh7vdY5g2cCM6c0Yc2Ee",
+              "shipping": "9.21",
+              "seller": "TigerDirect, Inc.",
+              "price": "199.97",
+              "condition": "New"
+            }
+          ],
+          "name": "amazon.com",
+          "salesrank": 24417,
+          "offers_count": 437,
+          "url": "http://www.amazon.com/dp/B00AAZOBSC",
+          "recentoffers_count": 13
+        },
+        {
+          "sku": "22081925",
+          "latestoffers": [
+            {
+              "seller": "Walmart",
+              "lastrecorded_at": 1390232500,
+              "firstrecorded_at": 1384682500,
+              "currency": "USD",
+              "availability": "In Stock",
+              "id": "3CVxrZzx8qkaO4SEsUuAMG",
+              "price": "129.97"
+            },
+            {
+              "seller": "Walmart",
+              "lastrecorded_at": 1383832400,
+              "currency": "USD",
+              "firstrecorded_at": 1379536100,
+              "availability": "In stock",
+              "price": "148.00",
+              "id": "692qgBWnVACyC6ykQ4gC8C"
+            },
+            {
+              "seller": "Walmart",
+              "lastrecorded_at": 1378540800,
+              "currency": "USD",
+              "firstrecorded_at": 1374905400,
+              "availability": "In stock",
+              "price": "149.97",
+              "id": "6uNWE3iu7ka6giQwsWCMoG"
+            }
+          ],
+          "name": "walmart.com",
+          "offers_count": 6,
+          "url": "http://www.walmart.com/ip/22081925",
+          "recentoffers_count": 1
+        },
+        {
+          "sku": "245975666",
+          "latestoffers": [
+            {
+              "seller": "TigerDirect",
+              "lastrecorded_at": 1370044300,
+              "currency": "USD",
+              "firstrecorded_at": 1370044300,
+              "availability": "Ships From: IL, United States. (Usually Ships in 1 to 2 business days)",
+              "id": "1vc6ilJK4yqAiaSgAwM2u0",
+              "price": "249.00",
+              "shipping": "11.47",
+              "condition": "New"
+            }
+          ],
+          "name": "rakuten.com",
+          "salesrank": 6284,
+          "offers_count": 1,
+          "url": "http://www.rakuten.com/prod/245975666.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "7509926",
+          "latestoffers": [
+            {
+              "seller": "Frys",
+              "lastrecorded_at": 1390144700,
+              "currency": "USD",
+              "firstrecorded_at": 1377687300,
+              "availability": "In stock, ships same Business Day.",
+              "id": "4WB5mAjZPEuwe6Ki0ugiG2",
+              "price": "249.99"
+            }
+          ],
+          "url": "http://www.frys.com/product/7509926",
+          "name": "frys.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 3,
+          "sku": "7386203",
+          "latestoffers": [
+            {
+              "seller": "TigerDirect.com",
+              "lastrecorded_at": 1386867700,
+              "currency": "USD",
+              "firstrecorded_at": 1386867700,
+              "availability": "Available",
+              "id": "4BAlQR3F9cA0seEqksqs4o",
+              "price": "199.97",
+              "shipping": "13.82"
+            },
+            {
+              "seller": "TigerDirect.com",
+              "lastrecorded_at": 1380213200,
+              "firstrecorded_at": 1380036800,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "249.00",
+              "id": "4uubsuoqk4MUIGGGiy2YK2"
+            },
+            {
+              "seller": "TigerDirect.com",
+              "lastrecorded_at": 1383085100,
+              "firstrecorded_at": 1380953200,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "199.20",
+              "id": "7ChUDqb9sWSIQK0oogIqmy"
+            }
+          ],
+          "url": "http://www.tigerdirect.com/applications/searchtools/item-details.asp?EdpNo=7386203",
+          "name": "tigerdirect.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "66709",
+          "latestoffers": [
+            {
+              "seller": "Abt Electronics & Appliances",
+              "lastrecorded_at": 1386867700,
+              "currency": "USD",
+              "firstrecorded_at": 1386867700,
+              "availability": "Available",
+              "id": "1XXaBWeWaWoYmC0iUewmyU",
+              "price": "159.00"
+            },
+            {
+              "seller": "Abt Electronics & Appliances",
+              "lastrecorded_at": 1383085100,
+              "currency": "USD",
+              "firstrecorded_at": 1379749200,
+              "availability": "Available",
+              "price": "249.99",
+              "id": "0lDA4CTRX28u6kgCgGsOCU"
+            }
+          ],
+          "url": "http://www.abt.com/product/66709/Energy-POWERBARONE.html",
+          "name": "abt.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "POWERBAR",
+          "latestoffers": [
+            {
+              "seller": "hhgregg",
+              "lastrecorded_at": 1380213200,
+              "currency": "USD",
+              "firstrecorded_at": 1379749200,
+              "availability": "Available",
+              "price": "399.99",
+              "id": "7XxfP0yW7UGwQEE6K24cEq"
+            }
+          ],
+          "url": "http://www.hhgregg.com/energy-200-watt-2-way-power-bar-soundbar-with-8-wireless-subwoofer/item/POWERBAR",
+          "name": "hhgregg.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "39988",
+          "latestoffers": [
+            {
+              "seller": "Amazing Savings",
+              "lastrecorded_at": 1380213200,
+              "currency": "USD",
+              "firstrecorded_at": 1379749200,
+              "availability": "Available",
+              "price": "399.99",
+              "id": "61FWAwcAMq602mukWYQK6U"
+            }
+          ],
+          "url": "http://amazinsales.com/index.php?route=product/product&product_id=39988",
+          "name": "amazinsales.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "19901",
+          "latestoffers": [
+            {
+              "seller": "acscomptek.com",
+              "lastrecorded_at": 1383085100,
+              "currency": "USD",
+              "firstrecorded_at": 1383085100,
+              "availability": "Available",
+              "id": "72kEfxl6uW6yqeyAYocwYM",
+              "price": "229.52"
+            },
+            {
+              "seller": "acscomptek.com",
+              "lastrecorded_at": 1380953200,
+              "currency": "USD",
+              "firstrecorded_at": 1380953200,
+              "availability": "Available",
+              "price": "243.91",
+              "id": "4eGzYVjDMWYIYqGkWgSksc"
+            }
+          ],
+          "url": "http://acscomptek.com/index.php?main_page=product_info&products_id=19901",
+          "name": "acscomptek.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "79002769",
+          "latestoffers": [
+            {
+              "seller": "Pricefalls.com",
+              "lastrecorded_at": 1379749200,
+              "currency": "USD",
+              "firstrecorded_at": 1379749200,
+              "availability": "Available",
+              "id": "1BIBiVyevoUy6a8CgW8us0",
+              "price": "199.00"
+            }
+          ],
+          "url": "http://www.pricefalls.com/products/Power-Bar-One-Soundbar/id/79002769",
+          "name": "pricefalls.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "seegypbar1b",
+          "latestoffers": [
+            {
+              "seller": "Techno Outlet Site",
+              "lastrecorded_at": 1383085100,
+              "currency": "USD",
+              "firstrecorded_at": 1383085100,
+              "availability": "Available",
+              "id": "01RQaPjUhZsugG0kocsamW",
+              "price": "224.86"
+            }
+          ],
+          "url": "http://www.technooutlet.com/seegypbar1b.html",
+          "name": "technooutlet.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "ENERGY-1015526-ENERGY-POWER-BAR-ONE-NA-Show-demo-open-box",
+          "latestoffers": [
+            {
+              "seller": "GrabCart",
+              "lastrecorded_at": 1383085100,
+              "currency": "USD",
+              "firstrecorded_at": 1383085100,
+              "availability": "Available",
+              "id": "2OoKIDgxlEucgEecuCwssS",
+              "price": "211.82",
+              "shipping": "6.00"
+            }
+          ],
+          "url": "http://www.grabcart.com/product/Electronics/Speaker-accessories/fishingsale4-seegypbar1b/ENERGY-1015526-ENERGY-POWER-BAR-ONE-NA-Show-demo-open-box",
+          "name": "grabcart.com",
+          "recentoffers_count": 1
+        },
+        {
+          "sku": "23126",
+          "latestoffers": [
+            {
+              "seller": "Electronic Express",
+              "lastrecorded_at": 1390240000,
+              "currency": "USD",
+              "firstrecorded_at": 1389534400,
+              "availability": "In Store Only,",
+              "id": "1qFkTJ9dxEwqGc6YioOi2s",
+              "price": "199.97"
+            },
+            {
+              "seller": "Electronic Express",
+              "lastrecorded_at": 1389269900,
+              "currency": "USD",
+              "firstrecorded_at": 1386837900,
+              "availability": "Out of Stock",
+              "price": "199.00",
+              "id": "0GhtLX2KET2M4wwEwaKo6C"
+            }
+          ],
+          "name": "electronicexpress.com",
+          "listprice": "249.99",
+          "listprice_currency": "USD",
+          "offers_count": 2,
+          "url": "http://www.electronicexpress.com/catalog/23126",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 0,
+          "sku": "POWER-BAR-ONE",
+          "latestoffers": [],
+          "name": "wwstereo.com",
+          "url": "http://www.wwstereo.com/Energy/POWER-BAR-ONE",
+          "recentoffers_count": 0
+        },
+        {
+          "offers_count": 1,
+          "sku": "energy-power-bar-one",
+          "latestoffers": [
+            {
+              "seller": "Audiogurus",
+              "lastrecorded_at": 1386867700,
+              "currency": "USD",
+              "firstrecorded_at": 1386867700,
+              "availability": "Available",
+              "id": "2ZoK6oFr5wQMYsqOwsY4wC",
+              "price": "249.00"
+            }
+          ],
+          "url": "http://www.audiogurus.com/energy-power-bar-one.html",
+          "name": "audiogurus.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "166058",
+          "latestoffers": [
+            {
+              "seller": "BrandsMart USA",
+              "lastrecorded_at": 1386867700,
+              "currency": "USD",
+              "firstrecorded_at": 1386867700,
+              "availability": "Available",
+              "id": "33GEURVnZ2gwUme8Gi2C2y",
+              "price": "199.99",
+              "shipping": "88.88"
+            }
+          ],
+          "url": "http://www.brandsmartusa.com/product/166058/product.htm",
+          "name": "brandsmartusa.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "921998593",
+          "latestoffers": [
+            {
+              "seller": "Shop.com",
+              "lastrecorded_at": 1386867700,
+              "currency": "USD",
+              "firstrecorded_at": 1386867700,
+              "availability": "Available",
+              "id": "4hU293gKtcGQOq40mgqeCC",
+              "price": "219.00",
+              "shipping": "9.94"
+            }
+          ],
+          "url": "http://www.shop.com/-921998593-p+.xhtml",
+          "name": "shop.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "1306367453",
+          "latestoffers": [
+            {
+              "seller": "TigerDirect",
+              "lastrecorded_at": 1389883700,
+              "currency": "USD",
+              "firstrecorded_at": 1387827800,
+              "availability": "Out of stock",
+              "price": "199.97",
+              "id": "2t7a4x3Z3wm8u6oqGI8iYE",
+              "condition": "New"
+            }
+          ],
+          "name": "bestbuy.com",
+          "url": "http://www.bestbuy.com/site/Energy+-+-+Power+Bar+One+2.1-Channel+Soundbar+with+Built-in+Subwoofers/1306367453.p?id=0&skuId=1306367453",
+          "recentoffers_count": 1
+        }
+      ],
+      "manufacturer": "Energy",
+      "gtins": [
+        "00629303300930"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/c7b41a1dac8126e64c6af19d73c134d0,0.jpg"
+      ],
+      "images_total": 1
+    },
+    {
+      "cat_id": "1977",
+      "ean": "0885170110656",
+      "model": "SC HTB70",
+      "offers_total": 126,
+      "weight": "4082331.33",
+      "category": "Speakers",
+      "name": "Panasonic SCHTB70 2.1-Channel Soundbar with Built-In Subwoofer",
+      "description": "Panasonic High Quality Channel Soundbar with Built... (visit site URLs for full description)",
+      "updated_at": 1390457180,
+      "price": "199.99",
+      "width": "1016.00",
+      "upc": "885170110656",
+      "brand": "Panasonic",
+      "created_at": 1365750146,
+      "sem3_id": "2d0H5264j6OyI6WoM2o0Ag",
+      "features": {
+        "Built-in Decoders": "Dolby Pro Logic II, Dolby Digital, DTS decoder",
+        "Driver Details": "Sound bar : 2 x woofer driver - 2.25\" Sound bar : 2 x tweeter driver - 1\"",
+        "Nominal (RMS) Output Power": "120 Watt",
+        "Product Type": "Sound bar - For home theater - 2.1-channel - wired",
+        "Voltage Required": "AC 120 V ( 60 Hz )",
+        "Speaker Details": "Sound bar - stereo - 2 x 30 Watt - 2-way - active Sound bar - subwoofer 60 Watt",
+        "Audio Amplifier": "Integrated",
+        "Power Consumption Operational": "20 Watt",
+        "Additional Features": "Dolby Virtual Speaker",
+        "Driver Details (2nd speaker)": "Subwoofer : 1 x subwoofer driver - 3.1\"",
+        "blob": "120W total system power (30W x 2; 60W subwoofer in RMS mode). Provides high-quality sound for your favorite movies, shows, games and music.; Dual 2-1/4\" woofer cones. Along with two 1\" semi-dome tweeters deliver rich, full audio. The 2-way design helps ensure sonic blending.; Dual 3-1/8\" 1-way antivibration bass-reflex subwoofer cones. Offer deep, powerful bass.; Dolby Digital, Dolby Pro Logic II, Dolby Virtual Speaker and DTS technologies. Create a lush soundscape for an immersive listening environment.; Built-in Bluetooth technology. Makes it easy to wirelessly stream audio stored on a compatible Bluetooth-enabled device (not included).; Dialog level and auto gain controls. For customized use.; 4-way multipositional speaker layout. Includes 2 wall-mount brackets, 2 basic stands, two 30Â° stands and two 80Â° stands for versatile setup options. Complements a 42\" - 50\" HDTV (not included) for a streamlined look.; Inputs. Include 1 HDMI, 1 optical and 1 analog audio.",
+        "Speaker Type": "Active",
+        "Connector Type": "SPDIF input ( TOSLINK ) Audio line-in ( RCA phono x 2 )",
+        "Speakers Included": "Sound bar - 120 Watt - wired",
+        "Recommended Placing": "Bookshelf, wall-mountable, table-top",
+        "Connectivity Interfaces": "Bluetooth"
+      },
+      "mpn": "SC-HTB70",
+      "height": "101.60",
+      "length": "152.40",
+      "sitedetails": [
+        {
+          "sku": "B00BI4JX2I",
+          "latestoffers": [
+            {
+              "seller": "TechNGnet",
+              "lastrecorded_at": 1389591800,
+              "currency": "USD",
+              "firstrecorded_at": 1376668400,
+              "availability": "Ships in 1-2 business days. Expedited shipping available.",
+              "price": "210.95",
+              "id": "2fE8sn7iFsuu8IkwkU0im8",
+              "shipping": "14.95",
+              "condition": "New"
+            },
+            {
+              "seller": "Dave Parkers",
+              "lastrecorded_at": 1389591800,
+              "currency": "USD",
+              "firstrecorded_at": 1389591800,
+              "availability": "Ships in 24 hours. Ships from NH, United States. Expedited shipping available.",
+              "price": "177.68",
+              "id": "5dut4b4fVAukAEm62IScmA",
+              "shipping": "12.99",
+              "condition": "New"
+            },
+            {
+              "seller": "ROSE traders",
+              "lastrecorded_at": 1389591800,
+              "currency": "USD",
+              "firstrecorded_at": 1389591800,
+              "availability": "Fulfillment by Amazon 96% positive over the past 12 months. (379 total ratings) In Stock. [APR: Amazon Prime]",
+              "price": "189.00",
+              "id": "2kl7kpkPLsUMWySIKkiCe2",
+              "condition": "New"
+            }
+          ],
+          "name": "amazon.com",
+          "salesrank": 13825,
+          "offers_count": 84,
+          "url": "http://www.amazon.com/dp/B00BI4JX2I",
+          "recentoffers_count": 0
+        },
+        {
+          "offers_count": 1,
+          "sku": "247735672",
+          "latestoffers": [
+            {
+              "seller": "SupplyTiger",
+              "lastrecorded_at": 1369888800,
+              "currency": "USD",
+              "firstrecorded_at": 1369888800,
+              "availability": "Ships From: PA, United States. (Usually Ships in 1 to 2 business days)",
+              "id": "7aFBrpkGxsm2Si80mMsSWm",
+              "price": "201.23",
+              "shipping": "16.70",
+              "condition": "New"
+            }
+          ],
+          "name": "rakuten.com",
+          "url": "http://www.rakuten.com/prod/247735672.html",
+          "recentoffers_count": 1,
+          "salesrank": 74552
+        },
+        {
+          "sku": "8322046",
+          "latestoffers": [
+            {
+              "seller": "BestBuy",
+              "lastrecorded_at": 1390241600,
+              "firstrecorded_at": 1375842900,
+              "currency": "USD",
+              "availability": "In stock",
+              "id": "3ZD3UUxTXUmQkI0eIsOK8S",
+              "price": "199.99",
+              "condition": "New"
+            }
+          ],
+          "name": "bestbuy.com",
+          "listprice": "199.99",
+          "listprice_currency": "USD",
+          "offers_count": 1,
+          "url": "http://www.bestbuy.com/site/Panasonic+-+-+2.1-Channel+Soundbar+with+Antivibration+Subwoofers/8322046.p?id=1218874431044&amp;skuId=8322046",
+          "recentoffers_count": 0
+        },
+        {
+          "offers_count": 2,
+          "sku": "68052",
+          "latestoffers": [
+            {
+              "seller": "Abt Electronics & Appliances",
+              "lastrecorded_at": 1384420100,
+              "currency": "USD",
+              "firstrecorded_at": 1384420100,
+              "availability": "Available",
+              "id": "5yq9Aq2uQas6AE42oyiAwu",
+              "price": "147.99"
+            },
+            {
+              "seller": "Abt Electronics & Appliances",
+              "lastrecorded_at": 1379770800,
+              "firstrecorded_at": 1379624000,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "197.99",
+              "id": "4tBDCIxBTkEKSK60CQ8OIG"
+            }
+          ],
+          "url": "http://www.abt.com/product/68052/Panasonic-SCHTB70.html",
+          "name": "abt.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "PCSCHTB70",
+          "latestoffers": [
+            {
+              "seller": "Adorama Camera",
+              "lastrecorded_at": 1390457100,
+              "currency": "USD",
+              "firstrecorded_at": 1386949500,
+              "availability": "Available",
+              "price": "197.99",
+              "id": "71658E1ZuSKQyia4CAwYiy"
+            },
+            {
+              "seller": "Adorama Camera",
+              "lastrecorded_at": 1385123100,
+              "currency": "USD",
+              "firstrecorded_at": 1379624000,
+              "availability": "Available",
+              "id": "0rFpYe8Esq08AgQIag2ywS",
+              "price": "179.99"
+            }
+          ],
+          "url": "http://www.adorama.com/PCSCHTB70.html",
+          "name": "adorama.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "SCHTB70",
+          "latestoffers": [
+            {
+              "seller": "Savinglots.com",
+              "lastrecorded_at": 1390457100,
+              "firstrecorded_at": 1382128100,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "6r9UmHMT8iUOyCiEQc4IyY",
+              "price": "145.00"
+            },
+            {
+              "seller": "Savinglots.com",
+              "lastrecorded_at": 1379770800,
+              "firstrecorded_at": 1379624000,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "169.00",
+              "id": "2DSR4iS1MGGqSkiKIeo6q0"
+            }
+          ],
+          "url": "http://www.savinglots.com/lotprod.asp?item=SCHTB70",
+          "name": "savinglots.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 6,
+          "sku": "9513404",
+          "latestoffers": [
+            {
+              "seller": "MacMall",
+              "lastrecorded_at": 1390457100,
+              "firstrecorded_at": 1388888600,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "241.99",
+              "id": "40HJT0XZfUYs6o4AAKgKay"
+            },
+            {
+              "seller": "MacMall",
+              "lastrecorded_at": 1388045500,
+              "firstrecorded_at": 1388045500,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "5z78BdoZtIUcoak0aiIAMq",
+              "price": "194.99"
+            },
+            {
+              "seller": "MacMall",
+              "lastrecorded_at": 1388348800,
+              "currency": "USD",
+              "firstrecorded_at": 1388348800,
+              "availability": "Available",
+              "price": "184.99",
+              "id": "3rOX68QVh2mcKw4G4YQIQY"
+            }
+          ],
+          "url": "http://www.macmall.com/p/Panasonic-MP3-Players-And-Accessories/product~DPNo~9513404~pdp.ibdaada",
+          "name": "macmall.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 5,
+          "sku": "926054",
+          "latestoffers": [
+            {
+              "seller": "B&H Photo-Video-Audio",
+              "lastrecorded_at": 1390457100,
+              "currency": "USD",
+              "firstrecorded_at": 1388348800,
+              "availability": "Available",
+              "price": "197.99",
+              "id": "69JY5ufbWaWWs0aUgsoUqg"
+            },
+            {
+              "seller": "B&H Photo-Video-Audio",
+              "lastrecorded_at": 1388045500,
+              "firstrecorded_at": 1388045500,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "5qhaVUbm0e42SaQCqeisqA",
+              "price": "117.99"
+            },
+            {
+              "seller": "B&H Photo-Video-Audio",
+              "lastrecorded_at": 1386949500,
+              "firstrecorded_at": 1385123100,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "197.99",
+              "id": "1pZsiHlMlUUw8SiIaoWquq"
+            }
+          ],
+          "url": "http://www.bhphotovideo.com/bnh/controller/home?O=productlist.jsp&Q=add&q=1&sku=926054&is=REG&BI=225&kw=PASCHTB70",
+          "name": "bhphotovideo.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 3,
+          "sku": "166385",
+          "latestoffers": [
+            {
+              "seller": "BrandsMart USA",
+              "lastrecorded_at": 1390457100,
+              "currency": "USD",
+              "firstrecorded_at": 1385123100,
+              "availability": "Available",
+              "id": "5GOvR1G5PUQCOSkMAWSkOo",
+              "price": "197.99",
+              "shipping": "7.88"
+            },
+            {
+              "seller": "BrandsMart USA",
+              "lastrecorded_at": 1384420100,
+              "currency": "USD",
+              "firstrecorded_at": 1382128100,
+              "availability": "Available",
+              "id": "2YK0QjFl6WEesoYgYYy4EU",
+              "price": "147.99"
+            },
+            {
+              "seller": "BrandsMart USA",
+              "lastrecorded_at": 1379770800,
+              "currency": "USD",
+              "firstrecorded_at": 1379624000,
+              "availability": "Available",
+              "id": "4ifZ6sRngGG4oumGQcSic2",
+              "price": "197.99"
+            }
+          ],
+          "url": "http://www.brandsmartusa.com/product/166385/product.bmp",
+          "name": "brandsmartusa.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "AUDSCHTB70",
+          "latestoffers": [
+            {
+              "seller": "Cascio Interstate Music",
+              "lastrecorded_at": 1388348800,
+              "currency": "USD",
+              "firstrecorded_at": 1386949500,
+              "availability": "Available",
+              "price": "207.99",
+              "id": "5fioyvINma2GEcgIuIG48y"
+            },
+            {
+              "seller": "Cascio Interstate Music",
+              "lastrecorded_at": 1384420100,
+              "currency": "USD",
+              "firstrecorded_at": 1382128100,
+              "availability": "Available",
+              "id": "3xal9c8SbgaWIYIq0WmyoG",
+              "price": "199.99"
+            }
+          ],
+          "url": "http://www.interstatemusic.com/911838-Panasonic-SC-HTB70-120-Watt-Home-Theater-System-with-Built-In-Subwoofer-SCHTB70.aspx?sku=AUDSCHTB70",
+          "name": "interstatemusic.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "7850440",
+          "latestoffers": [
+            {
+              "seller": "TigerDirect.com",
+              "lastrecorded_at": 1388993200,
+              "currency": "USD",
+              "firstrecorded_at": 1382128100,
+              "availability": "Available",
+              "id": "3SBblXf4NccOA60eUi4Eqe",
+              "price": "200.65",
+              "shipping": "11.96"
+            }
+          ],
+          "url": "http://www.tigerdirect.com/applications/searchtools/item-details.asp?EdpNo=7850440",
+          "name": "tigerdirect.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 6,
+          "sku": "panasonicsch",
+          "latestoffers": [
+            {
+              "seller": "Sale Stores",
+              "lastrecorded_at": 1390457100,
+              "currency": "USD",
+              "firstrecorded_at": 1390457100,
+              "availability": "Available",
+              "id": "51nayCTLTcqmiQYE6Uq2ue",
+              "price": "184.00",
+              "shipping": "19.50"
+            },
+            {
+              "seller": "Sale Stores",
+              "lastrecorded_at": 1385123100,
+              "firstrecorded_at": 1385123100,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "0SSZPjahtI0ooEOAi8EMSs",
+              "price": "197.50",
+              "shipping": "19.50"
+            },
+            {
+              "seller": "Sale Stores",
+              "lastrecorded_at": 1382128100,
+              "firstrecorded_at": 1382128100,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "6oGHBSu0g4G2O06CUO0YU8",
+              "price": "214.19",
+              "shipping": "19.50"
+            }
+          ],
+          "url": "http://salestores.com/panasonicsch.html",
+          "name": "salestores.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 4,
+          "sku": "8130030",
+          "latestoffers": [
+            {
+              "seller": "PCM",
+              "lastrecorded_at": 1388348800,
+              "currency": "USD",
+              "firstrecorded_at": 1388348800,
+              "availability": "Available",
+              "id": "2odnMiZtyio8O6S6I8seKK",
+              "price": "184.99"
+            },
+            {
+              "seller": "PCM",
+              "lastrecorded_at": 1384420100,
+              "currency": "USD",
+              "firstrecorded_at": 1382128100,
+              "availability": "Available",
+              "id": "5sF95LokQwECO8aIiyG626",
+              "price": "194.99"
+            },
+            {
+              "seller": "PCM",
+              "lastrecorded_at": 1386949500,
+              "currency": "USD",
+              "firstrecorded_at": 1385123100,
+              "availability": "Available",
+              "price": "241.99",
+              "id": "24OGl3MBea2iekmkKUu2Yc",
+              "shipping": "27.43"
+            }
+          ],
+          "url": "http://www.pcm.com/p/8130030",
+          "name": "pcm.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "B00BI4JX2I-5",
+          "latestoffers": [
+            {
+              "seller": "Top Brand TV",
+              "lastrecorded_at": 1385123100,
+              "currency": "USD",
+              "firstrecorded_at": 1385123100,
+              "availability": "Available",
+              "id": "4J6hS4NhiiKa0AgSGUyqIa",
+              "price": "129.06"
+            },
+            {
+              "seller": "Top Brand TV",
+              "lastrecorded_at": 1384420100,
+              "currency": "USD",
+              "firstrecorded_at": 1384420100,
+              "availability": "Available",
+              "price": "144.76",
+              "id": "5U5Nzhn7WSwMc42qwWUMSy"
+            }
+          ],
+          "name": "topbrandtv.com",
+          "url": "http://www.topbrandtv.com/products/B00BI4JX2I-5",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "E268861",
+          "latestoffers": [
+            {
+              "seller": "QVC.com",
+              "lastrecorded_at": 1388993200,
+              "currency": "USD",
+              "firstrecorded_at": 1385123100,
+              "availability": "Available",
+              "price": "229.96",
+              "id": "4dSZ6MT8CGOEiIyGAoMOMc"
+            }
+          ],
+          "name": "qvc.com",
+          "url": "http://www.qvc.com/scripts/reference.pl?item=E268861&tpl=detail",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "823658391",
+          "latestoffers": [
+            {
+              "seller": "Shop.com",
+              "lastrecorded_at": 1388045500,
+              "currency": "USD",
+              "firstrecorded_at": 1388045500,
+              "availability": "Available",
+              "id": "7WAYZAeMfuCGUYeEoG8y6o",
+              "price": "232.15",
+              "shipping": "5.00"
+            }
+          ],
+          "url": "http://www.shop.com/-823658391-p+.xhtml",
+          "name": "shop.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "Panasonic-SC-HTB70-2-1Chand-44-120wSoundbarand-44-Built-in-Suband-44-Wireless-Music-Stream-via-Bluetoothand-44-42-Inch",
+          "latestoffers": [
+            {
+              "seller": "GrabCart",
+              "lastrecorded_at": 1388993200,
+              "firstrecorded_at": 1388348800,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "7k5LSYUHw0wG6aGu2YEUyG",
+              "price": "199.99",
+              "shipping": "5.00"
+            }
+          ],
+          "url": "http://www.grabcart.com/product/Home-and-garden/Baking-pans/dealseller54-almo4196/Panasonic-SC-HTB70-2-1Chand-44-120wSoundbarand-44-Built-in-Suband-44-Wireless-Music-Stream-via-Bluetoothand-44-42-Inch",
+          "name": "grabcart.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "B00BI4JX2I-4",
+          "latestoffers": [
+            {
+              "seller": "Overstock Biz",
+              "lastrecorded_at": 1388888600,
+              "currency": "USD",
+              "firstrecorded_at": 1388888600,
+              "availability": "Available",
+              "id": "3MCAneXHxAc2sysm8qIieW",
+              "price": "102.52",
+              "condition": "Refurbished"
+            }
+          ],
+          "url": "http://www.overstockbiz.com/products/B00BI4JX2I-4",
+          "name": "overstockbiz.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "3088390",
+          "latestoffers": [
+            {
+              "seller": "Pricefalls.com",
+              "lastrecorded_at": 1390457100,
+              "currency": "USD",
+              "firstrecorded_at": 1390457100,
+              "availability": "Available",
+              "id": "3QbXQvmAHAyeOQKw4oUoU4",
+              "price": "201.10"
+            }
+          ],
+          "url": "http://www.pricefalls.com/product/Panasonic-SC-HTB70-2.1Chand-number-44;120wSoundbarand-number-44;Built-in-Suband-number-44;Wireless-Music-Stream-via-Bluetoothand-number-44;42-Inch/3088390",
+          "name": "pricefalls.com",
+          "recentoffers_count": 1
+        }
+      ],
+      "manufacturer": "Panasonic",
+      "gtins": [
+        "00885170110656"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/b630245893d8ee028ca64cbb6d9a0952,0.jpg"
+      ],
+      "images_total": 1
+    },
+    {
+      "cat_id": "1977",
+      "ean": "0027108924663",
+      "model": "YST SW030SL",
+      "offers_total": 155,
+      "weight": "9230604.73",
+      "category": "Speakers",
+      "name": "Yamaha YST-SW012 8-Inch Front-Firing Active Subwoofer",
+      "description": "Yamaha's Advanced YST II, Linear Port and front-fi... (visit site URLs for full description)",
+      "updated_at": 1390566843,
+      "price": "129.94",
+      "width": "289.81",
+      "upc": "027108924663",
+      "brand": "Yamaha",
+      "created_at": 1347494946,
+      "sem3_id": "11g8Rjr5biwMGScCG8GSyq",
+      "color": "Black",
+      "features": {
+        "ENERGY STAR Certified": "No [ENERGY STAR is a joint program of the U.S. Environmental Protection Agency and the U.S. Department of Energy helping us all save money and protect the environment through energy efficient products and practices. ]",
+        "Subwoofer": "8\", 100W",
+        "Subwoofer Driver": "8\"",
+        "Enclosure Type": "Front-firing",
+        "Number of Speakers": "1",
+        "Maximum Power Handling": "50W",
+        "Impedance": "5 ohms",
+        "Volume Control": "Yes",
+        "Number of Speakers per Package": "1",
+        "Frequency Response": "28-200Hz [Range of sound (low to high) that an audio or video component is capable of reproducing. ]",
+        "blob": "8\" front-firing powered subwoofer. Delivers extended bass response.; Built-in amplifier. Supplies 100 watts dynamic power for crushing volume with minimal distortion.; Advanced Yamaha Active Servo Technology II (Advanced YST II). Utilizes negative-impedance feedback in the amplifier and a Helmholtz resonator in the speaker for powerful, clear bass.; Linear port. Provides smooth bass response during playback and helps minimize extraneous noise.; Magnetic shielding. Helps reduce interference from video sources.; Volume control. Lets you match the subwoofer's output to the rest of your sound system.; 28 - 200Hz frequency response. For faithful sound reproduction.; 5 ohms impedance. Conducts power through the speakers.",
+        "Magnetically Shielded": "Yes",
+        "Speaker Use": "Subwoofer",
+        "Amplified Power": "100W",
+        "Warranty Terms - Parts": "2 years limited",
+        "Peak Power handling": "100W",
+        "Speaker Pricing": "Each"
+      },
+      "mpn": "YST-SW012",
+      "height": "360.43",
+      "length": "311.15",
+      "sitedetails": [
+        {
+          "sku": "B000TQ4D8K",
+          "latestoffers": [
+            {
+              "seller": "KYOTO EXPORT",
+              "lastrecorded_at": 1389859900,
+              "firstrecorded_at": 1389859900,
+              "currency": "USD",
+              "availability": "Usually ships within 3 - 4 business days. Ships from Japan.",
+              "price": "192.10",
+              "id": "3D5bxk0Ta4cSaWs2immYSO",
+              "condition": "New"
+            },
+            {
+              "seller": "Adorama Camera",
+              "lastrecorded_at": 1389859900,
+              "firstrecorded_at": 1389859900,
+              "currency": "USD",
+              "availability": "Ships in 1-2 business days. Expedited shipping available.",
+              "price": "99.95",
+              "id": "05XfGwaAHZ2k02A20SiGGq",
+              "condition": "New"
+            },
+            {
+              "seller": "Amazon.com",
+              "lastrecorded_at": 1389859900,
+              "currency": "USD",
+              "firstrecorded_at": 1373455900,
+              "availability": "In Stock. [APR: Amazon Prime]",
+              "price": "89.95",
+              "id": "6jcALBntOSSiyQmo0qA200",
+              "condition": "New"
+            }
+          ],
+          "name": "amazon.com",
+          "salesrank": 894,
+          "offers_count": 136,
+          "url": "http://www.amazon.com/dp/B000TQ4D8K",
+          "recentoffers_count": 0
+        },
+        {
+          "offers_count": 4,
+          "sku": "5456139",
+          "latestoffers": [
+            {
+              "seller": "Frys",
+              "lastrecorded_at": 1390052500,
+              "firstrecorded_at": 1388852000,
+              "currency": "USD",
+              "availability": "In stock, ships same Business Day.",
+              "price": "99.99",
+              "id": "0ls2GNC5ZWwCsyUwA2YiOo"
+            },
+            {
+              "seller": "Frys",
+              "lastrecorded_at": 1363578600,
+              "firstrecorded_at": 1362213600,
+              "currency": "USD",
+              "availability": "Shipping: Available for Back Order",
+              "price": "129.99",
+              "id": "6JgE0o6ixcOKG86qiSGcSm"
+            }
+          ],
+          "name": "frys.com",
+          "url": "http://www.frys.com/product/5456139",
+          "recentoffers_count": 1
+        },
+        {
+          "sku": "9262781",
+          "latestoffers": [
+            {
+              "seller": "BestBuy",
+              "lastrecorded_at": 1389410900,
+              "firstrecorded_at": 1375853900,
+              "currency": "USD",
+              "availability": "Out of stock",
+              "id": "1qj6qCttumAIUO8o8a8U0I",
+              "price": "89.99",
+              "condition": "New"
+            }
+          ],
+          "name": "bestbuy.com",
+          "offers_count": 1,
+          "url": "http://www.bestbuy.com/site/Yamaha+-+-+8\"+100-Watt+Powered+Subwoofer/9262781.p?id=1218672946070&skuId=9262781",
+          "recentoffers_count": 0
+        },
+        {
+          "offers_count": 2,
+          "sku": "YAMYSTSW012B",
+          "latestoffers": [
+            {
+              "seller": "Adorama Camera",
+              "lastrecorded_at": 1390566800,
+              "currency": "USD",
+              "firstrecorded_at": 1390566800,
+              "availability": "Available",
+              "id": "3Y1LkGxUsCwaWgK8GsaeS2",
+              "price": "99.95"
+            },
+            {
+              "seller": "Adorama Camera",
+              "lastrecorded_at": 1389092400,
+              "firstrecorded_at": 1380839000,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "89.95",
+              "id": "3I3M5w3jFAK2sqgqOAcCem"
+            }
+          ],
+          "url": "http://www.adorama.com/YAMYSTSW012B.html",
+          "name": "adorama.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "YAMYSTSW012BL",
+          "latestoffers": [
+            {
+              "seller": "Accessories4less",
+              "lastrecorded_at": 1390566800,
+              "firstrecorded_at": 1380839000,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "69.98",
+              "id": "6ULTHxCZv6KUsyGSIcA6yY",
+              "condition": "Refurbished"
+            }
+          ],
+          "url": "http://www.accessories4less.com/index.php?page=item&id=YAMYSTSW012BL",
+          "name": "accessories4less.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "yamaha-yst-sw012",
+          "latestoffers": [
+            {
+              "seller": "Audiogurus",
+              "lastrecorded_at": 1390566800,
+              "firstrecorded_at": 1380839000,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "99.95",
+              "id": "76hJ8rdZDcY0Mg0sWeC46o"
+            }
+          ],
+          "url": "http://www.audiogurus.com/yamaha-yst-sw012.html",
+          "name": "audiogurus.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "880610",
+          "latestoffers": [
+            {
+              "seller": "B&H Photo-Video-Audio",
+              "lastrecorded_at": 1389092400,
+              "currency": "USD",
+              "firstrecorded_at": 1380839000,
+              "availability": "Available",
+              "id": "4nHNU1FstMqoMY2Cc4wOoI",
+              "price": "89.95"
+            }
+          ],
+          "url": "http://www.bhphotovideo.com/bnh/controller/home?O=&Q=&sku=880610&is=REG&BI=225&kw=YAYSTSW012BL",
+          "name": "bhphotovideo.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "441777",
+          "latestoffers": [
+            {
+              "seller": "Full Compass Systems",
+              "lastrecorded_at": 1390566800,
+              "currency": "USD",
+              "firstrecorded_at": 1384403400,
+              "availability": "Available",
+              "id": "6PhB3HSv5MoCQoa0S0IYwe",
+              "price": "99.95",
+              "shipping": "8.44"
+            }
+          ],
+          "url": "http://www.fullcompass.com/product/441777.html",
+          "name": "fullcompass.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "AUDYSTSW012BL",
+          "latestoffers": [
+            {
+              "seller": "Cascio Interstate Music",
+              "lastrecorded_at": 1388647400,
+              "firstrecorded_at": 1384403400,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "99.95",
+              "id": "2jYgSLrCzQoEywKOu6MMY6"
+            }
+          ],
+          "url": "http://www.interstatemusic.com/867555-Yamaha-YST-SW012-8-100-Watt-Subwoofer-YSTSW012BL.aspx?sku=AUDYSTSW012BL",
+          "name": "interstatemusic.com",
+          "recentoffers_count": 1
+        },
+        {
+          "sku": "YST-SW012BL",
+          "latestoffers": [
+            {
+              "seller": "World Wide Stereo",
+              "lastrecorded_at": 1390238500,
+              "firstrecorded_at": 1389763000,
+              "currency": "USD",
+              "availability": "In stock",
+              "price": "99.95",
+              "id": "53ZtHdY0YKSQGgwwmwqW2e"
+            },
+            {
+              "seller": "World Wide Stereo",
+              "lastrecorded_at": 1389137800,
+              "currency": "USD",
+              "firstrecorded_at": 1389137800,
+              "availability": "not available",
+              "price": "129.94",
+              "id": "28flv08M4yM2oWykugUIMM"
+            }
+          ],
+          "listprice": "129.94",
+          "name": "wwstereo.com",
+          "listprice_currency": "USD",
+          "offers_count": 5,
+          "url": "http://www.wwstereo.com/Yamaha/YST-SW012BL",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "YAMYSTSW012BL2",
+          "latestoffers": [
+            {
+              "seller": "Accessories4less",
+              "lastrecorded_at": 1388115200,
+              "firstrecorded_at": 1380839000,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "69.98",
+              "id": "6ULTHxCZv6KUsyGSIcA6yY",
+              "condition": "Refurbished"
+            }
+          ],
+          "url": "http://www.accessories4less.com/make-a-store/item/YAMYSTSW012BL2/YAMAHA-YST-SW012-8-Inch-Front-Firing-Active-Subwoofer/1.html",
+          "name": "accessories4less.com",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "1305316766",
+          "latestoffers": [
+            {
+              "seller": "Buy",
+              "lastrecorded_at": 1387833800,
+              "currency": "USD",
+              "firstrecorded_at": 1387833800,
+              "availability": "Out of stock",
+              "id": "05vlhjeCuBccwoqEmW28OO",
+              "price": "90.52",
+              "condition": "New"
+            }
+          ],
+          "name": "bestbuy.com",
+          "url": "http://www.bestbuy.com/site/Yamaha+-+-+8\"+100-Watt+Powered+Subwoofer/1305316766.p?id=0&skuId=1305316766",
+          "recentoffers_count": 1
+        }
+      ],
+      "manufacturer": "YAMAHA",
+      "gtins": [
+        "00027108924663"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/7a67addd46c371edc301b6c64018043c,0.jpg"
+      ],
+      "images_total": 1
+    },
+    {
+      "cat_id": "1786",
+      "ean": "0086792728216",
+      "model": "SW218V",
+      "offers_total": 56,
+      "weight": "138799265.22",
+      "category": "Studio Recording Equipment",
+      "name": "Yamaha SW218V Carpted Dual 18-inch Subwoofer",
+      "description": "The SW218V uses a low profile cabinet design, with... (visit site URLs for full description)",
+      "updated_at": 1389824912,
+      "price": "649.02",
+      "upc": "086792728216",
+      "brand": "Yamaha",
+      "created_at": 1347580678,
+      "sem3_id": "49ynMhU0OuKgQKoaAOQ0Ua",
+      "features": {
+        "2 - 18\" woofers each30Hz-2kHz frequency response (-10dB)1,220W program handling/2,400W peakSensitivity": "98dB48\"W x 23\"H x 26\"D each132 lbs. each",
+        "blob": "2 - 18\" woofers30Hz-2kHz frequency response (-10dB)1,220W program handling/2,400W peakSensitivity: 98dB48\"W x 23\"H x 26\"D132 lbs.",
+        "Shipping Advisory": "This item must be shipped separately from other items in your order. Additional shipping charges will not apply.",
+        "Product Dimensions": "51 x 28 x 25 inches ; 150 pounds"
+      },
+      "mpn": "SW218V",
+      "sitedetails": [
+        {
+          "sku": "B0002GKY6C",
+          "latestoffers": [
+            {
+              "seller": "Amazon.com",
+              "lastrecorded_at": 1389824900,
+              "currency": "USD",
+              "firstrecorded_at": 1372901800,
+              "availability": "In Stock. [APR: Amazon Prime]",
+              "price": "649.99",
+              "id": "1p1srE1yKuoyo0gMSCCqGE",
+              "condition": "New"
+            },
+            {
+              "lastrecorded_at": 1389824900,
+              "currency": "USD",
+              "firstrecorded_at": 1382523400,
+              "availability": "Ships in 1-2 business days. Ships from MO, United States. Expedited shipping available.",
+              "id": "24RaKxO2BsiyKW0gA8Omy4",
+              "shipping": "69.98",
+              "seller": "Music123",
+              "price": "1259.98",
+              "condition": "New"
+            },
+            {
+              "lastrecorded_at": 1389824900,
+              "firstrecorded_at": 1383616500,
+              "currency": "USD",
+              "availability": "Ships in 1-2 business days. Ships from MO, United States.",
+              "id": "3DtF8eveqeqCAsayWegqis",
+              "seller": "Woodwind and Brasswind",
+              "price": "649.99",
+              "condition": "New"
+            }
+          ],
+          "name": "amazon.com",
+          "salesrank": 79648,
+          "offers_count": 38,
+          "url": "http://www.amazon.com/dp/B0002GKY6C",
+          "recentoffers_count": 7
+        },
+        {
+          "offers_count": 1,
+          "sku": "Yamaha-SW218V-Club-Series-V-Subwoofer-i1152939",
+          "latestoffers": [
+            {
+              "seller": "Guitar Center",
+              "lastrecorded_at": 1387031200,
+              "currency": "USD",
+              "firstrecorded_at": 1379720600,
+              "availability": "Available",
+              "price": "649.99",
+              "id": "3qnAEjM2JkYeKam0wEqYKK"
+            }
+          ],
+          "name": "guitarcenter.com",
+          "url": "http://www.guitarcenter.com/Yamaha-SW218V-Club-Series-V-Subwoofer-i1152939.gc",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "sw218v-yamaha",
+          "latestoffers": [
+            {
+              "seller": "Focused Technology",
+              "lastrecorded_at": 1387031200,
+              "currency": "USD",
+              "firstrecorded_at": 1379720600,
+              "availability": "Available",
+              "price": "649.99",
+              "id": "38hevvF1cWS624Ee6Ga2yg"
+            }
+          ],
+          "name": "focusedtechnology.com",
+          "url": "http://www.focusedtechnology.com/sw218v-yamaha.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "Yamaha-SW218V-Club-Series-V-Subwoofer-i1152939",
+          "latestoffers": [
+            {
+              "seller": "Woodwind and Brasswind",
+              "lastrecorded_at": 1387031200,
+              "currency": "USD",
+              "firstrecorded_at": 1379720600,
+              "availability": "Available",
+              "price": "649.99",
+              "id": "5q16yVypuaGqsY84E8oWyw"
+            }
+          ],
+          "name": "wwbw.com",
+          "url": "http://www.wwbw.com/Yamaha-SW218V-Club-Series-V-Subwoofer-i1152939.wwbw",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "yamaha-sw218v-club-series-v-subwoofer",
+          "latestoffers": [
+            {
+              "seller": "Ace Karaoke",
+              "lastrecorded_at": 1387031200,
+              "currency": "USD",
+              "firstrecorded_at": 1379720600,
+              "availability": "Available",
+              "price": "699.00",
+              "id": "6swse83EnIGY2m0uIoIWYA"
+            }
+          ],
+          "name": "acekaraoke.com",
+          "url": "http://www.acekaraoke.com/yamaha-sw218v-club-series-v-subwoofer.html?kw=yamaha-sw218v-club-series-v-subwoofer",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "YMSW218V",
+          "latestoffers": [
+            {
+              "seller": "Adorama Camera",
+              "lastrecorded_at": 1387031200,
+              "currency": "USD",
+              "firstrecorded_at": 1379720600,
+              "availability": "Available",
+              "price": "649.99",
+              "id": "6zhbNPj8gwKueSqUqmWKGO"
+            }
+          ],
+          "name": "adorama.com",
+          "url": "http://www.adorama.com/YMSW218V.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "309202",
+          "latestoffers": [
+            {
+              "seller": "B&H Photo-Video-Audio",
+              "lastrecorded_at": 1387031200,
+              "currency": "USD",
+              "firstrecorded_at": 1379720600,
+              "availability": "Available",
+              "price": "649.99",
+              "id": "1NI4S9epNwE8CseoI0oSou"
+            }
+          ],
+          "name": "bhphotovideo.com",
+          "url": "http://www.bhphotovideo.com/bnh/controller/home?O=&Q=&sku=309202&is=REG&BI=225&kw=YASW218V",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "Yamaha-SW218V-Club-Series-V-Dual-18-Passive-Subwoofer-Speaker-Cabinet",
+          "latestoffers": [
+            {
+              "seller": "Lone Star Percussion",
+              "lastrecorded_at": 1387031200,
+              "currency": "USD",
+              "firstrecorded_at": 1379720600,
+              "availability": "Available",
+              "id": "5dQz92FW4GaAusuaIk4M2Y",
+              "price": "649.99",
+              "shipping": "100.79"
+            }
+          ],
+          "name": "lonestarpercussion.com",
+          "url": "http://www.lonestarpercussion.com/Stands-Hardware/Live-Sound-Recording-PA-Speakers-Monitors/Yamaha-SW218V-Club-Series-V-Dual-18-Passive-Subwoofer-Speaker-Cabinet.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "SRSSW218V",
+          "latestoffers": [
+            {
+              "seller": "Cascio Interstate Music",
+              "lastrecorded_at": 1387031200,
+              "currency": "USD",
+              "firstrecorded_at": 1379720600,
+              "availability": "Available",
+              "price": "649.99",
+              "id": "3YOiDv4ZkWuqc8AWwWqOkM"
+            }
+          ],
+          "name": "interstatemusic.com",
+          "url": "http://www.interstatemusic.com/54344-Yamaha-SW218V-Dual-18-And-quot-Club-Series-V-Subwoofer-SW218V.aspx?sku=SRSSW218V",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "productname_Yamaha-Club-Series-V-Loudspeakers-S-Series",
+          "latestoffers": [
+            {
+              "seller": "Bananas Music",
+              "lastrecorded_at": 1387031200,
+              "currency": "USD",
+              "firstrecorded_at": 1379720600,
+              "availability": "Available",
+              "price": "649.99",
+              "id": "1uZnxHo1ZgGMOCkWc0qGoW"
+            }
+          ],
+          "name": "bananasmusic.com",
+          "url": "http://www.bananasmusic.com/productdetail.asp/pid_4336/productname_Yamaha-Club-Series-V-Loudspeakers-S-Series",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "386833",
+          "latestoffers": [
+            {
+              "seller": "Full Compass Systems",
+              "lastrecorded_at": 1387031200,
+              "currency": "USD",
+              "firstrecorded_at": 1379720600,
+              "availability": "Available",
+              "id": "1SzOaLltrw4kmoqmQeQEm4",
+              "price": "649.99",
+              "shipping": "139.10"
+            }
+          ],
+          "name": "fullcompass.com",
+          "url": "http://www.fullcompass.com/product/386833.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "14215",
+          "latestoffers": [
+            {
+              "seller": "Performance Audio",
+              "lastrecorded_at": 1387031200,
+              "firstrecorded_at": 1379720600,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "649.99",
+              "id": "4d3GjkrmU42CeAukkuwEAs"
+            }
+          ],
+          "name": "performanceaudio.com",
+          "url": "http://www.performanceaudio.com/item/Yamaha-SW218V/14215",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "yamaha-sw218v",
+          "latestoffers": [
+            {
+              "seller": "Sonic Sense Pro Audio",
+              "lastrecorded_at": 1387031200,
+              "firstrecorded_at": 1379720600,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "649.99",
+              "id": "4DxbXbz8882u0g6okSgoOO"
+            }
+          ],
+          "name": "sonicsense.com",
+          "url": "http://www.sonicsense.com/yamaha-sw218v.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "YAM-SW218V",
+          "latestoffers": [
+            {
+              "seller": "ProAVMax.com",
+              "lastrecorded_at": 1387031200,
+              "firstrecorded_at": 1379720600,
+              "currency": "USD",
+              "availability": "Available",
+              "id": "7YtUwnI3GK4qAMg6ymiooU",
+              "price": "649.99",
+              "shipping": "149.35"
+            }
+          ],
+          "name": "proavmax.com",
+          "url": "http://www.proavmax.com/ProductDetails.asp?ProductCode=YAM-SW218V",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "18801",
+          "latestoffers": [
+            {
+              "seller": "The Midi Store",
+              "lastrecorded_at": 1387031200,
+              "firstrecorded_at": 1382712500,
+              "currency": "USD",
+              "availability": "Available",
+              "price": "649.99",
+              "id": "292PBmrMCuYoocy8WQYmgO"
+            }
+          ],
+          "name": "midi-store.com",
+          "url": "http://www.midi-store.com/Yamaha-SW218V-Club-Series-V-Subwoofer-p-18801.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "caraudio_20939_Yamaha-SW218V-Club-Series-V-Subwoofer",
+          "latestoffers": [
+            {
+              "seller": "Techronics.com",
+              "lastrecorded_at": 1387031200,
+              "currency": "USD",
+              "firstrecorded_at": 1385724600,
+              "availability": "Available",
+              "price": "649.99",
+              "id": "6fcJb8kfyasm8wqK2IA2CM"
+            }
+          ],
+          "name": "techronics.com",
+          "url": "http://www.techronics.com/caraudio_20939_Yamaha-SW218V-Club-Series-V-Subwoofer.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 2,
+          "sku": "yamaha-sw218v-ca",
+          "latestoffers": [
+            {
+              "seller": "ACMElectronics",
+              "lastrecorded_at": 1387031200,
+              "currency": "USD",
+              "firstrecorded_at": 1387031200,
+              "availability": "Available",
+              "id": "4r4atiTOn2oWqYm8Ei8wqI",
+              "price": "649.02"
+            },
+            {
+              "seller": "ACMElectronics",
+              "lastrecorded_at": 1385724600,
+              "currency": "USD",
+              "firstrecorded_at": 1385724600,
+              "availability": "Available",
+              "price": "647.00",
+              "id": "7Gf2Wwbo3sIu4SwYGsaIIW"
+            }
+          ],
+          "name": "acmelectronics.com",
+          "url": "http://acmelectronics.com/yamaha-sw218v-ca.html",
+          "recentoffers_count": 1
+        },
+        {
+          "offers_count": 1,
+          "sku": "yamaha-sw218v-club-series-v-subwoofer",
+          "latestoffers": [
+            {
+              "seller": "Musicians Friend",
+              "lastrecorded_at": 1387031200,
+              "currency": "USD",
+              "firstrecorded_at": 1387031200,
+              "availability": "Available",
+              "id": "1fNlSKLfb2cAi4UeUAUoCW",
+              "price": "649.99",
+              "shipping": "140.00"
+            }
+          ],
+          "url": "http://www.musiciansfriend.com/pro-audio/yamaha-sw218v-club-series-v-subwoofer",
+          "name": "musiciansfriend.com",
+          "recentoffers_count": 1
+        }
+      ],
+      "manufacturer": "Yamaha PAC",
+      "gtins": [
+        "00086792728216"
+      ],
+      "geo": [
+        "usa"
+      ],
+      "price_currency": "USD",
+      "images": [
+        "http://sem3-idn.s3-website-us-east-1.amazonaws.com/4843920b25dbecf65ef28754c016bdf0,0.jpg"
+      ],
+      "images_total": 1
+    }
+  ]
+}
