@@ -1,0 +1,67 @@
+{
+  "code": "OK",
+  "total_results_count": 5,
+  "offset": 0,
+  "results_count": 5,
+  "results": [
+    {
+      "id": "6JotT9dMmWeYoi0UqKESoO",
+      "price": "1167.74",
+      "firstrecorded_at": 1349396400,
+      "lastrecorded_at": 1390786500,
+      "sitedetails_name": "walmart.com",
+      "sem3_id": "2iTwoIQGhEKMiW62moMy0u",
+      "seller": "Walmart",
+      "currency": "USD",
+      "availability": "Out of Stock"
+    },
+    {
+      "id": "3l8ZNONJHyWoMsaO8AGoCQ",
+      "shipping": "14.30",
+      "price": "1134.99",
+      "firstrecorded_at": 1360613800,
+      "lastrecorded_at": 1362344900,
+      "sitedetails_name": "newegg.com",
+      "sem3_id": "2iTwoIQGhEKMiW62moMy0u",
+      "seller": "newegg.com",
+      "currency": "USD",
+      "availability": "Deactivated. This item is currently out of stock and it may or may not be restocked. [BBX: Buy Box]"
+    },
+    {
+      "id": "4abH4A3vkm06U2oWqwgIsq",
+      "price": "1191.78",
+      "condition": "New",
+      "firstrecorded_at": 1358832600,
+      "lastrecorded_at": 1359055700,
+      "sitedetails_name": "amazon.com",
+      "sem3_id": "2iTwoIQGhEKMiW62moMy0u",
+      "seller": "Beach Audio",
+      "currency": "USD",
+      "availability": "Ships in 1-2 business days. Expedited shipping available."
+    },
+    {
+      "id": "17KXreIddiKiQM0SSOskei",
+      "price": "1191.55",
+      "condition": "New",
+      "firstrecorded_at": 1357264200,
+      "lastrecorded_at": 1358775100,
+      "sitedetails_name": "amazon.com",
+      "sem3_id": "2iTwoIQGhEKMiW62moMy0u",
+      "seller": "Beach Audio",
+      "currency": "USD",
+      "availability": "Ships in 1-2 business days. Expedited shipping available."
+    },
+    {
+      "id": "1Zl8zVaRtM8W6kMGckSOY6",
+      "price": "1191.30",
+      "condition": "New",
+      "firstrecorded_at": 1354901400,
+      "lastrecorded_at": 1357207700,
+      "sitedetails_name": "amazon.com",
+      "sem3_id": "2iTwoIQGhEKMiW62moMy0u",
+      "seller": "Beach Audio",
+      "currency": "USD",
+      "availability": "Ships in 1-2 business days. Expedited shipping available."
+    }
+  ]
+}

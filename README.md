@@ -13,18 +13,40 @@ In order to use the client, you must have both an API key and an API secret. To 
 https://www.semantics3.com/
 You can access your API access credentials from the user dashboard at https://www.semantics3.com/dashboard/applications
 
+### Running unit tests
+add a file in src/test/resources/credentials.properties. Replace with a valid api key.
+```java
+apiKey: SEM3xxxxxxxxxxxxxxxxxxxxxx
+apiSecret: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+```
+### Installing locally 
+mvn clean install
+
 ### Setup Work
+
+Add this to your pom
+```xml
+<dependency>
+  <groupId>com.semantics3</groupId>
+  <artifactId>java-api</artifactId>
+  <version>1.0-SNAPSHOT</version>
+</dependency>
+```
 
 Let's lay the groundwork.
 
 ```java
-import com.semantics3.api.Products;
+import com.semantics3.api.impl.DefaultSemantics3Factory;
+import com.semantics3.api.model.ProductResponse;
+import com.semantics3.api.Semantics3;
+import com.semantics3.api.ProductUrl;
 
-/* Set up a client to talk to the Semantics3 API using your Semantics3 API Credentials */
-Products products = new Products(
-	"SEM3xxxxxxxxxxxxxxxxxxxxxx",
-	"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+DefaultSemantics3Factory factory = new DefaultSemantics3Factory(
+  "SEM3xxxxxxxxxxxxxxxxxxxxxx", 
+  "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 );
+Semantics3 semantics3 = factory.create();
+
 ```
 
 ### First Query aka 'Hello World':
@@ -33,17 +55,24 @@ Let's make our first query! For this query, we are going to search for all Toshi
 
 ```java
 /* Build the query */
-products
-    .productsField( "cat_id", 4992 )
-    .productsField( "brand", "Toshiba" );
+ProductUrl url
+            .filter(Product.CAT_ID, 4992)
+            .filter(Product.BRAND, "Toshiba");
+ProductResponse response = semantics3.query(url, ProductResponse.class);
 
-/* Make the query */
-JSONObject results = products.getProducts();
-/* or */
-results = products.get();
+// Iterate through the responses.
+```
 
-/* View the results of the query */
-System.out.println(results);
+### Unit Test your searches ###
+```java
+  @Test
+  public void categoryAndBrand() {
+    final String expected = "https://api.semantics3.com/v1/products?q={\"cat_id\":4992,\"brand\":\"Toshiba\"}";
+    url
+            .filter(Product.CAT_ID, 4992)
+            .filter(Product.BRAND, "Toshiba");
+    assertUrl(expected);
+  }  
 ```
 
 ## Examples
@@ -55,14 +84,10 @@ The following examples show you how to interface with some of the core functiona
 In this example we are going to be accessing the categories endpoint. We are going to be specifically exploiring the "Computers and Accessories" category, which has a cat_id of 4992. For more details regarding our category tree and associated cat_ids check out our API docs at https://www.semantics3.com/docs
 
 ```java
-/* Build the query */
-products.categoriesField( "cat_id", 4992 );
-
-/* Execute the query */
-JSONObject results = products.getCategories();
-
-/* View the results of the query */
-System.out.println(results);
+CategoryUrl url = new CategoryUrl();
+url.filter(Category.CAT_ID, 4992);
+CategoryResponse response = semantics3.query(url, CategoryResponse.class);
+//Iterate the response
 ```
 
 ### Nested Search Query
@@ -107,7 +132,6 @@ products.remove( "products", "weight" );
 JSONObject results = products.getProducts();
 System.out.println(results);
 ```
-
 
 
 ### Explore Price Histories

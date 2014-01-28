@@ -1,0 +1,78 @@
+{
+  "code": "OK",
+  "results_count": 12,
+  "results": [
+    {
+      "cat_id": "8790",
+      "name": "Home Audio",
+      "parent_cat_id": "13658",
+      "parent_name": "Electronics"
+    },
+    {
+      "cat_id": "10100",
+      "name": "eBook Readers & Accessories",
+      "parent_cat_id": "13658",
+      "parent_name": "Electronics"
+    },
+    {
+      "cat_id": "1061",
+      "name": "Electronics Warranties",
+      "parent_cat_id": "13658",
+      "parent_name": "Electronics"
+    },
+    {
+      "cat_id": "1124",
+      "name": "Security & Surveillance",
+      "parent_cat_id": "13658",
+      "parent_name": "Electronics"
+    },
+    {
+      "cat_id": "979",
+      "name": "Service & Replacement Plans",
+      "parent_cat_id": "13658",
+      "parent_name": "Electronics"
+    },
+    {
+      "cat_id": "16055",
+      "name": "Accessories & Supplies",
+      "parent_cat_id": "13658",
+      "parent_name": "Electronics"
+    },
+    {
+      "cat_id": "20773",
+      "name": "Camera & Photo",
+      "parent_cat_id": "13658",
+      "parent_name": "Electronics"
+    },
+    {
+      "cat_id": "399",
+      "name": "Television & Video",
+      "parent_cat_id": "13658",
+      "parent_name": "Electronics"
+    },
+    {
+      "cat_id": "18623",
+      "name": "Car & Vehicle Electronics",
+      "parent_cat_id": "13658",
+      "parent_name": "Electronics"
+    },
+    {
+      "cat_id": "17761",
+      "name": "Portable Audio & Video",
+      "parent_cat_id": "13658",
+      "parent_name": "Electronics"
+    },
+    {
+      "cat_id": "4992",
+      "name": "Computers & Accessories",
+      "parent_cat_id": "13658",
+      "parent_name": "Electronics"
+    },
+    {
+      "cat_id": "8461",
+      "name": "GPS & Navigation",
+      "parent_cat_id": "13658",
+      "parent_name": "Electronics"
+    }
+  ]
+}
