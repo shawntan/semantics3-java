@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.semantics3.api.model;
 
 import java.io.IOException;
@@ -13,7 +8,7 @@ import org.junit.Test;
  *
  * @author jeremy
  */
-public class SiteDetailTest extends Sem3ObjectTest<SiteDetail> {
+public class SiteDetailTest extends Semantics3ObjectTest<SiteDetail> {
 
   @Override
   protected SiteDetail create() {
@@ -29,6 +24,8 @@ public class SiteDetailTest extends Sem3ObjectTest<SiteDetail> {
     Assert.assertEquals("url should be the same", "http://www.lscwarehouse.com/ats-1520.html", sem3Object.url);
     Assert.assertEquals("name should be the same", "lscwarehouse.com", sem3Object.name);
     Assert.assertEquals("recentoffers_count should be the same", (Object) 1, (Object) sem3Object.recentOffersCount);
-
+    Assert.assertNotNull("latest_offers should not be null.", sem3Object.latestOffers);
+    Assert.assertEquals("offers_count and latest_offers.size should be the same", (Object) sem3Object.offersCount, (Object) sem3Object.latestOffers.size());
+    
   }
 }

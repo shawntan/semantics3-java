@@ -15,16 +15,37 @@ You can access your API access credentials from the user dashboard at https://ww
 
 ### Setup Work
 
+mvn clean install
+
+Add this to your pom
+```xml
+<dependency>
+  <groupId>com.semantics3</groupId>
+  <artifactId>java-api</artifactId>
+  <version>1.0-SNAPSHOT</version>
+</dependency>
+```
+
 Let's lay the groundwork.
 
 ```java
-import com.semantics3.api.Products;
+import com.semantics3.api.impl.DefaultSemantics3Factory;
+import com.semantics3.api.model.ProductResponse;
+import com.semantics3.api.Semantics3;
+import com.semantics3.api.ProductUrl;
 
-/* Set up a client to talk to the Semantics3 API using your Semantics3 API Credentials */
-Products products = new Products(
-	"SEM3xxxxxxxxxxxxxxxxxxxxxx",
-	"xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+DefaultSemantics3Factory factory = new DefaultSemantics3Factory(
+  "SEM3xxxxxxxxxxxxxxxxxxxxxx", 
+  "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 );
+Semantics3 semantics3 = factory.create();
+
+ProductUrl url = new ProductUrl();
+url.filter("search", "Apple Macbook"); 
+
+ProductResponse response = semantics3.query(url, ProductResponse.class);
+
+//Process the results
 ```
 
 ### First Query aka 'Hello World':

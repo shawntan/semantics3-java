@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package com.semantics3.api.model;
 
 import com.google.api.client.json.JsonFactory;
@@ -13,7 +8,7 @@ import org.apache.commons.io.IOUtils;
 import org.junit.Assert;
 import org.junit.Before;
 
-public abstract class Sem3ObjectTest<T extends Sem3Object> {
+public abstract class Semantics3ObjectTest<T extends Semantics3Object> {
 
   protected JsonFactory JSON_FACTORY = new JacksonFactory();
   protected T sem3Object;
