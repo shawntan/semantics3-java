@@ -50,7 +50,8 @@ public class ProductUrlTest extends Semantics3UrlTest<ProductUrl> {
   @Test
   public void categoryAndBrand() {
     final String expected = "https://api.semantics3.com/v1/products?q={\"cat_id\":4992,\"brand\":\"Toshiba\"}";
-    url.filter(Product.CAT_ID, 4992)
+    url
+            .filter(Product.CAT_ID, 4992)
             .filter(Product.BRAND, "Toshiba");
     assertUrl(expected);
   }  

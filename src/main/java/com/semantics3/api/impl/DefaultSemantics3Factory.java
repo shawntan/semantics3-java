@@ -81,4 +81,20 @@ public class DefaultSemantics3Factory implements Semantics3Factory {
     this.httpTransport = httpTransport;
   }
 
+  public MetricsCollector getMetricsCollector() {
+    return metricsCollector;
+  }
+
+  public void setMetricsCollector(MetricsCollector metricsCollector) {
+    this.metricsCollector = metricsCollector;
+  }
+
+  public void setExponentialBackOff(boolean exponentialBackOff) {
+    this.exponentialBackOff = exponentialBackOff;
+  }
+
+  public boolean getExponentialBackOff(){
+    return this.exponentialBackOff;
+  }
+  
 }

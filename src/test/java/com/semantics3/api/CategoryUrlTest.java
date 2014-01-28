@@ -47,4 +47,12 @@ public class CategoryUrlTest extends Semantics3UrlTest<CategoryUrl> {
     url.filter(Category.NAME, "computers");
     assertUrl(expected);
   } 
+
+  @Test
+  public void category4992() {
+    final String expected = "https://api.semantics3.com/v1/categories?q={\"cat_id\":4992}";
+    url.filter(Category.CAT_ID, 4992);
+    assertUrl(expected);
+  } 
+  
 }
