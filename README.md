@@ -139,7 +139,14 @@ You can register a webhook with Semantics3 by sending a POST request to ```"webh
   
     System.out.println(results.toString(4));
 ```
+To fetch existing webhooks
 
+```
+        HashMap params = new HashMap();
+	params.put("", "");
+	JSONObject results = aaa.runQuery(endpoint, "GET", params);
+	System.out.println(results.toString(4));
+```
 ## Contributing
 Use GitHub's standard fork/commit/pull-request cycle.  If you have any questions, email <support@semantics3.com>.
 
