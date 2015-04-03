@@ -162,6 +162,30 @@ To remove a webhook
 
 Once you register a webhook, you can start adding events to it. Semantics3 server will send you notifications when these events occur. To register events for a specific webhook send a POST request to the ```"webhooks/{webhook_id}/events"``` endpoint
 
+```
+    String webhookId = "7JcGN81u";
+    String endpoint = "webhooks/" +webhookId+ "/events";
+	
+	Semantics3Request request = new Semantics3Request(apiKey, apiSecret, endpoint);
+	
+	String Json = "{\"type\": \"price.change\"," +
+			"\"product\": " +
+			"{\"sem3_id\": \"1QZC8wchX62eCYS2CACmka\"}," +
+			"\"constraints\": " +
+			"{ \"gte\": 10, \"lte\": 100}}";
+	
+	HashMap params = new HashMap();
+	
+	params.put("params", "jsonT");
+	//System.out.println(myMap);
+	//aaa.runQuery(param1, param2, myMap);
+	
+	JSONObject results = request.runQuery(endpoint, "POST", params);
+	//results = products.get();
+	/* View the results of the query */
+	System.out.println(results.toString(4));
+```
+
 
 ## Contributing
 Use GitHub's standard fork/commit/pull-request cycle.  If you have any questions, email <support@semantics3.com>.
