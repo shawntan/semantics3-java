@@ -141,7 +141,8 @@ You can register a webhook with Semantics3 by sending a POST request to ```"webh
 ```
 To fetch existing webhooks
 
-```     
+```  
+    String endpoint = "webhooks";
     Semantics3Request request = new Semantics3Request(apiKey, apiSecret, endpoint);
     HashMap params = new HashMap();
 	params.put("", "");
@@ -151,6 +152,7 @@ To fetch existing webhooks
 To remove a webhook
 
 ```
+    String endpoint = "webhooks/" + webhookId + "/events";
     Semantics3Request request = new Semantics3Request(apiKey, apiSecret, endpoint);
     
 	HashMap params = new HashMap();
