@@ -151,7 +151,7 @@ To fetch existing webhooks
 To remove a webhook
 
 ```
-        Semantics3Request request = new Semantics3Request(apiKey, apiSecret, endpoint);
+    Semantics3Request request = new Semantics3Request(apiKey, apiSecret, endpoint);
     
 	HashMap params = new HashMap();
 	params.put("", "");
@@ -159,7 +159,10 @@ To remove a webhook
 	JSONObject results = request.runQuery(endpoint, "DELETE", params);
 	System.out.println(results.toString(4));
 ```
-	
+
+### Registering events
+
+Once you register a webhook, you can start adding events to it. Semantics3 server will send you notifications when these events occur. To register events for a specific webhook send a POST request to the ```"webhooks/{webhook_id}/events"``` endpoint
 
 
 ## Contributing
