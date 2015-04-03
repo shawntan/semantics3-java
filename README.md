@@ -130,7 +130,7 @@ You can register a webhook with Semantics3 by sending a POST request to ```"webh
     String endpoint = "webhooks";
     Semantics3Request request = new Semantics3Request(apiKey, apiSecret, endpoint);
     HashMap params = new HashMap();
-    params.put("webhook_uri", "http://148.251.44.168:5000");
+    params.put("webhook_uri", "http://mydomain.com/webhooks-callback-url");
     JSONObject results = request.runQuery(endpoint, "POST", params);
     System.out.println(results.toString(4));
 ```
