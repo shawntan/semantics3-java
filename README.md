@@ -151,7 +151,7 @@ To fetch existing webhooks
 To remove a webhook
 
 ```
-Semantics3Request request = new Semantics3Request(apiKey, apiSecret, endpoint);
+        Semantics3Request request = new Semantics3Request(apiKey, apiSecret, endpoint);
     
 	HashMap params = new HashMap();
 	params.put("", "");
