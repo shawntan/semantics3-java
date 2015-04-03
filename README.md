@@ -147,7 +147,8 @@ To fetch existing webhooks
 To remove a webhook
 
 ```
-    String endpoint = "webhooks/" + webhookId + "/events";
+    String webhookId = "7JcGN81u";
+    String endpoint = "webhooks/" + webhookId;
     Semantics3Request request = new Semantics3Request(apiKey, apiSecret, endpoint);
     
 	HashMap params = new HashMap();
