@@ -116,6 +116,30 @@ products
 	System.out.println(results);
 ```
 
+### Webhooks
+
+You can use webhooks to get near-real-time price updates from Semantics3.
+
+## Creating a webhook
+
+You can register a webhook with Semantics3 by sending a POST request to ```"webhooks"``` endpoint. To verify that your URL is active, a GET request will be sent to your server with a ```verification_code``` parameter. Your server should respond with ```verification_code``` in the response body to complete the verification process.
+
+```
+    String apiKey = "SEM3xxxxxxxxxxxxxxxxxxxxxx";
+    String apiSecret = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
+    String endpoint = "webhooks";
+
+    Semantics3Request aaa = new Semantics3Request(apiKey, apiSecret, endpoint);
+    
+    HashMap params = new HashMap();
+    
+    params.put("webhook_uri", "http://148.251.44.168:5000");
+
+    JSONObject results = aaa.runQuery(endpoint, "POST", params);
+  
+    System.out.println(results.toString(4));
+```
+
 ## Contributing
 Use GitHub's standard fork/commit/pull-request cycle.  If you have any questions, email <support@semantics3.com>.
 
