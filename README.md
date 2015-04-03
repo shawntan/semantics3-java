@@ -168,25 +168,54 @@ Once you register a webhook, you can start adding events to it. Semantics3 serve
 	
 	Semantics3Request request = new Semantics3Request(apiKey, apiSecret, endpoint);
 	
-	String Json = "{\"type\": \"price.change\"," +
+	String json = "{\"type\": \"price.change\"," +
 			"\"product\": " +
 			"{\"sem3_id\": \"1QZC8wchX62eCYS2CACmka\"}," +
 			"\"constraints\": " +
 			"{ \"gte\": 10, \"lte\": 100}}";
 	
 	HashMap params = new HashMap();
-	
-	params.put("params", "jsonT");
-	//System.out.println(myMap);
-	//aaa.runQuery(param1, param2, myMap);
+	params.put("params", "json");
 	
 	JSONObject results = request.runQuery(endpoint, "POST", params);
-	//results = products.get();
-	/* View the results of the query */
 	System.out.println(results.toString(4));
 ```
 
+To fetch all registered events for a give webhook
 
+```
+    String webhookId = "7JcGN81u";
+    String endpoint = "webhooks/" +webhookId+ "/events";
+    
+	Semantics3Request request = new Semantics3Request(apiKey, apiSecret, endpoint);
+	HashMap params = new HashMap();
+	
+	params.put("", "");
+	JSONObject results = request.runQuery(endpoint, "GET", params);
+```
+## Webhook Notifications
+
+Once you have created a webhook and registered events on it, notifications will be sent to your registered webhook URI via a POST request when the corresponding events occur. Make sure that your server can accept POST requests. Here is how a sample notification object looks like
+
+```
+{
+    "type": "price.change",
+    "event_id": "XyZgOZ5q",
+    "notification_id": "X4jsdDsW",
+    "changes": [{
+        "site": "abc.com",
+        "url": "http://www.abc.com/def",
+        "previous_price": 45.50,
+        "current_price": 41.00
+    }, {
+        "site": "walmart.com",
+        "url": "http://www.walmart.com/ip/20671263",
+        "previous_price": 34.00,
+        "current_price": 42.00
+    }]
+}
+
+```
 ## Contributing
 Use GitHub's standard fork/commit/pull-request cycle.  If you have any questions, email <support@semantics3.com>.
 
