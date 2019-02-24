@@ -16,6 +16,7 @@ import java.net.HttpURLConnection;
 import java.net.URISyntaxException;
 import java.net.URL;
 import java.net.URLEncoder;
+import java.sql.Connection;
 import java.util.HashMap;
 
 public class Semantics3Request{
@@ -30,6 +31,19 @@ public class Semantics3Request{
 	private HashMap<String,JSONObject> query = new HashMap<String, JSONObject>();
 	private JSONObject queryResult;
 	private StringBuffer urlBuilder;
+	private ConnectionProperties connectionProperties;
+
+	public Semantics3Request(String apiKey, String apiSecret, String endpoint, ConnectionProperties connectionProperties) {
+		this(apiKey, apiSecret, endpoint);
+
+		this.connectionProperties = connectionProperties;
+	}
+	
+	public Semantics3Request(String apiKey, String apiSecret, ConnectionProperties connectionProperties) {
+		this(apiKey, apiSecret);
+
+		this.connectionProperties = connectionProperties;
+	}
 	
 	public Semantics3Request(String apiKey, String apiSecret, String endpoint) {
 		this(apiKey, apiSecret);
