@@ -32,24 +32,9 @@ public class Semantics3Request{
 	private StringBuffer urlBuilder;
 	
 	public Semantics3Request(String apiKey, String apiSecret, String endpoint) {
-		if (apiKey == null) { 
-			throw new Semantics3Exception(
-					"API Credentials Missing",
-					"You did not supply an apiKey. Please sign up at https://semantics3.com/ to obtain your api_key."
-				);
-		}
-		if (apiSecret == null) { 
-			throw new Semantics3Exception(
-					"API Credentials Missing",
-					"You did not supply an apiSecret. Please sign up at https://semantics3.com/ to obtain your api_key."
-				);
-		}
+		this(apiKey, apiSecret);
 
-		this.apiKey    = apiKey;
-		this.apiSecret = apiSecret;
-		this.endpoint  = endpoint;
-		this.consumer = new DefaultOAuthConsumer(apiKey, apiSecret);
-		consumer.setTokenWithSecret("", "");
+		this.endpoint = endpoint;
 	}
 
     public Semantics3Request(String apiKey, String apiSecret) {
