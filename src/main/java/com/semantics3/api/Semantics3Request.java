@@ -14,9 +14,7 @@ import java.io.InputStream;
 import java.io.OutputStreamWriter;
 import java.net.HttpURLConnection;
 import java.net.URISyntaxException;
-import java.net.URL;
 import java.net.URLEncoder;
-import java.sql.Connection;
 import java.util.HashMap;
 
 public class Semantics3Request{
@@ -38,7 +36,7 @@ public class Semantics3Request{
 
 		this.connectionProperties = connectionProperties;
 	}
-	
+
 	public Semantics3Request(String apiKey, String apiSecret, ConnectionProperties connectionProperties) {
 		this(apiKey, apiSecret);
 
@@ -82,10 +80,7 @@ public class Semantics3Request{
 					.append("?q=")
 					.append(URLEncoder.encode(params, "UTF-8"))
 					.toString();
-		URL url = new URL(req);
-        url = url.toURI().normalize().toURL();
-		HttpURLConnection request = (HttpURLConnection) url.openConnection();
-		request.setRequestProperty("User-Agent", "Semantics3 Java Library");
+		HttpURLConnection request = new ConnectionBuilder().buildConnection(req, this.connectionProperties);
 		consumer.sign(request);
 		request.connect();
         try {
@@ -118,10 +113,7 @@ public class Semantics3Request{
                 .append(API_BASE)
                 .append(endpoint)
                 .toString();
-        URL url = new URL(req);
-        url = url.toURI().normalize().toURL();
-        HttpURLConnection request = (HttpURLConnection) url.openConnection();
-        request.setRequestProperty("User-Agent", "Semantics3 Java Library");
+		HttpURLConnection request = new ConnectionBuilder().buildConnection(req, this.connectionProperties);
         if(method == "POST") {
             request.setDoInput(true);
             request.setDoOutput(true);
