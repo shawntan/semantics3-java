@@ -13,6 +13,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStreamWriter;
 import java.net.HttpURLConnection;
+import java.net.SocketTimeoutException;
 import java.net.URISyntaxException;
 import java.net.URLEncoder;
 import java.util.HashMap;
@@ -87,6 +88,9 @@ public class Semantics3Request{
             }
             return json;
         }
+        catch (SocketTimeoutException e) {
+        	throw e;
+		}
         catch (IOException e) {
             InputStream error = ((HttpURLConnection) request).getErrorStream();
             JSONObject json = new JSONObject(new JSONTokener(error));
@@ -136,6 +140,9 @@ public class Semantics3Request{
         }
         return json;
         }
+		catch (SocketTimeoutException e) {
+			throw e;
+		}
         catch (IOException e) {
             InputStream error = ((HttpURLConnection) request).getErrorStream();
             JSONObject json = new JSONObject(new JSONTokener(error));
