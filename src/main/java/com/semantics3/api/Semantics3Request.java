@@ -32,41 +32,38 @@ public class Semantics3Request{
 	private ConnectionProperties connectionProperties;
 
 	public Semantics3Request(String apiKey, String apiSecret, String endpoint, ConnectionProperties connectionProperties) {
-		this(apiKey, apiSecret, endpoint);
+		if (apiKey == null) {
+			throw new Semantics3Exception(
+					"API Credentials Missing",
+					"You did not supply an apiKey. Please sign up at https://semantics3.com/ to obtain your api_key."
+			);
+		}
+		if (apiSecret == null) {
+			throw new Semantics3Exception(
+					"API Credentials Missing",
+					"You did not supply an apiSecret. Please sign up at https://semantics3.com/ to obtain your api_key."
+			);
+		}
+		this.apiKey    = apiKey;
+		this.apiSecret = apiSecret;
+		this.consumer = new DefaultOAuthConsumer(apiKey, apiSecret);
+		consumer.setTokenWithSecret("", "");
+
+		this.endpoint = endpoint;
 
 		this.connectionProperties = connectionProperties;
 	}
 
 	public Semantics3Request(String apiKey, String apiSecret, ConnectionProperties connectionProperties) {
-		this(apiKey, apiSecret);
-
-		this.connectionProperties = connectionProperties;
+		this(apiKey, apiSecret, null, connectionProperties);
 	}
 	
 	public Semantics3Request(String apiKey, String apiSecret, String endpoint) {
-		this(apiKey, apiSecret);
-
-		this.endpoint = endpoint;
+		this(apiKey, apiSecret, endpoint, new ConnectionProperties());
 	}
 
     public Semantics3Request(String apiKey, String apiSecret) {
-        if (apiKey == null) {
-            throw new Semantics3Exception(
-                    "API Credentials Missing",
-                    "You did not supply an apiKey. Please sign up at https://semantics3.com/ to obtain your api_key."
-            );
-        }
-        if (apiSecret == null) {
-            throw new Semantics3Exception(
-                    "API Credentials Missing",
-                    "You did not supply an apiSecret. Please sign up at https://semantics3.com/ to obtain your api_key."
-            );
-        }
-
-        this.apiKey    = apiKey;
-        this.apiSecret = apiSecret;
-        this.consumer = new DefaultOAuthConsumer(apiKey, apiSecret);
-        consumer.setTokenWithSecret("", "");
+		this(apiKey, apiSecret, null, new ConnectionProperties());
     }
 
 	protected JSONObject fetch(String endpoint, String params) throws
