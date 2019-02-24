@@ -13,8 +13,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStreamWriter;
 import java.net.HttpURLConnection;
+import java.net.SocketTimeoutException;
 import java.net.URISyntaxException;
-import java.net.URL;
 import java.net.URLEncoder;
 import java.util.HashMap;
 
@@ -30,46 +30,41 @@ public class Semantics3Request{
 	private HashMap<String,JSONObject> query = new HashMap<String, JSONObject>();
 	private JSONObject queryResult;
 	private StringBuffer urlBuilder;
-	
-	public Semantics3Request(String apiKey, String apiSecret, String endpoint) {
-		if (apiKey == null) { 
+	private ConnectionProperties connectionProperties;
+
+	public Semantics3Request(String apiKey, String apiSecret, String endpoint, ConnectionProperties connectionProperties) {
+		if (apiKey == null) {
 			throw new Semantics3Exception(
 					"API Credentials Missing",
 					"You did not supply an apiKey. Please sign up at https://semantics3.com/ to obtain your api_key."
-				);
+			);
 		}
-		if (apiSecret == null) { 
+		if (apiSecret == null) {
 			throw new Semantics3Exception(
 					"API Credentials Missing",
 					"You did not supply an apiSecret. Please sign up at https://semantics3.com/ to obtain your api_key."
-				);
+			);
 		}
-
 		this.apiKey    = apiKey;
 		this.apiSecret = apiSecret;
-		this.endpoint  = endpoint;
 		this.consumer = new DefaultOAuthConsumer(apiKey, apiSecret);
 		consumer.setTokenWithSecret("", "");
+
+		this.endpoint = endpoint;
+
+		this.connectionProperties = connectionProperties;
+	}
+
+	public Semantics3Request(String apiKey, String apiSecret, ConnectionProperties connectionProperties) {
+		this(apiKey, apiSecret, null, connectionProperties);
+	}
+	
+	public Semantics3Request(String apiKey, String apiSecret, String endpoint) {
+		this(apiKey, apiSecret, endpoint, new ConnectionProperties());
 	}
 
     public Semantics3Request(String apiKey, String apiSecret) {
-        if (apiKey == null) {
-            throw new Semantics3Exception(
-                    "API Credentials Missing",
-                    "You did not supply an apiKey. Please sign up at https://semantics3.com/ to obtain your api_key."
-            );
-        }
-        if (apiSecret == null) {
-            throw new Semantics3Exception(
-                    "API Credentials Missing",
-                    "You did not supply an apiSecret. Please sign up at https://semantics3.com/ to obtain your api_key."
-            );
-        }
-
-        this.apiKey    = apiKey;
-        this.apiSecret = apiSecret;
-        this.consumer = new DefaultOAuthConsumer(apiKey, apiSecret);
-        consumer.setTokenWithSecret("", "");
+		this(apiKey, apiSecret, null, new ConnectionProperties());
     }
 
 	protected JSONObject fetch(String endpoint, String params) throws
@@ -83,10 +78,7 @@ public class Semantics3Request{
 					.append("?q=")
 					.append(URLEncoder.encode(params, "UTF-8"))
 					.toString();
-		URL url = new URL(req);
-        url = url.toURI().normalize().toURL();
-		HttpURLConnection request = (HttpURLConnection) url.openConnection();
-		request.setRequestProperty("User-Agent", "Semantics3 Java Library");
+		HttpURLConnection request = new ConnectionBuilder().buildConnection(req, this.connectionProperties);
 		consumer.sign(request);
 		request.connect();
         try {
@@ -96,6 +88,9 @@ public class Semantics3Request{
             }
             return json;
         }
+        catch (SocketTimeoutException e) {
+        	throw e;
+		}
         catch (IOException e) {
             InputStream error = ((HttpURLConnection) request).getErrorStream();
             JSONObject json = new JSONObject(new JSONTokener(error));
@@ -119,10 +114,7 @@ public class Semantics3Request{
                 .append(API_BASE)
                 .append(endpoint)
                 .toString();
-        URL url = new URL(req);
-        url = url.toURI().normalize().toURL();
-        HttpURLConnection request = (HttpURLConnection) url.openConnection();
-        request.setRequestProperty("User-Agent", "Semantics3 Java Library");
+		HttpURLConnection request = new ConnectionBuilder().buildConnection(req, this.connectionProperties);
         if(method == "POST") {
             request.setDoInput(true);
             request.setDoOutput(true);
@@ -148,6 +140,9 @@ public class Semantics3Request{
         }
         return json;
         }
+		catch (SocketTimeoutException e) {
+			throw e;
+		}
         catch (IOException e) {
             InputStream error = ((HttpURLConnection) request).getErrorStream();
             JSONObject json = new JSONObject(new JSONTokener(error));
